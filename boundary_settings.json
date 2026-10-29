@@ -1,0 +1,314 @@
+{
+  "state": {
+    "name": "Bihar",
+    "fillColor": "#10b981",
+    "outlineColor": "#059669",
+    "lineWidth": 3.5,
+    "fillOpacity": 0.12
+  },
+  "districts": {
+    "muzaffarpur": {
+      "name": "Muzaffarpur District",
+      "fillColor": "#8b5cf6",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "araria": {
+      "name": "Araria",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "aurangabad": {
+      "name": "Aurangabad",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "banka": {
+      "name": "Banka",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "begusarai": {
+      "name": "Begusarai",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "kaimur (bhabua)": {
+      "name": "Kaimur (Bhabua)",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "bhagalpur": {
+      "name": "Bhagalpur",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "bhojpur": {
+      "name": "Bhojpur",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "buxar": {
+      "name": "Buxar",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "gaya": {
+      "name": "Gaya",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "gopalganj": {
+      "name": "Gopalganj",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "jamui": {
+      "name": "Jamui",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "jehanabad": {
+      "name": "Jehanabad",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "katihar": {
+      "name": "Katihar",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "khagaria": {
+      "name": "Khagaria",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "kishanganj": {
+      "name": "Kishanganj",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "madhepura": {
+      "name": "Madhepura",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "nalanda": {
+      "name": "Nalanda",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "nawada": {
+      "name": "Nawada",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "pashchim champaran": {
+      "name": "Pashchim Champaran",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "patna": {
+      "name": "Patna",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "purba champaran": {
+      "name": "Purba Champaran",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "purnia": {
+      "name": "Purnia",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "rohtas": {
+      "name": "Rohtas",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "saharsa": {
+      "name": "Saharsa",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "samastipur": {
+      "name": "Samastipur",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "saran": {
+      "name": "Saran",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "sheikhpura": {
+      "name": "Sheikhpura",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "sheohar": {
+      "name": "Sheohar",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "sitamarhi": {
+      "name": "Sitamarhi",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "supaul": {
+      "name": "Supaul",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "vaishali": {
+      "name": "Vaishali",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "arwal": {
+      "name": "Arwal",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "darbhanga": {
+      "name": "Darbhanga",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "madhubani": {
+      "name": "Madhubani",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "munger": {
+      "name": "Munger",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "siwan": {
+      "name": "Siwan",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    },
+    "lakhisarai": {
+      "name": "Lakhisarai",
+      "fillColor": "#6366f1",
+      "outlineColor": "#a855f7",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.16
+    }
+  },
+  "circles": {
+    "sahebganj": {
+      "name": "Sahebganj Circle",
+      "fillColor": "#00e5ff",
+      "outlineColor": "#00e5ff",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.18
+    },
+    "paroo": {
+      "name": "Paroo",
+      "fillColor": "#f59e0b",
+      "outlineColor": "#d97706",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.18
+    },
+    "saraiya": {
+      "name": "Saraiya",
+      "fillColor": "#ec4899",
+      "outlineColor": "#db2777",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.18
+    },
+    "kanti": {
+      "name": "Kanti",
+      "fillColor": "#84cc16",
+      "outlineColor": "#65a30d",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.18
+    },
+    "sahebganj circle": {
+      "name": "Sahebganj Circle",
+      "fillColor": "#00e5ff",
+      "outlineColor": "#00e5ff",
+      "lineWidth": 2.5,
+      "fillOpacity": 0.18
+    }
+  }
+}

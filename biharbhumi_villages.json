@@ -1,0 +1,866 @@
+[
+  {
+    "selectIndex": 0,
+    "hindiName": "अहीयापुर",
+    "englishName": "Ahiyapur",
+    "villageCode": "0169",
+    "thanaNo": "0007",
+    "extra": "3169"
+  },
+  {
+    "selectIndex": 1,
+    "hindiName": "आनन्दी छपरा",
+    "englishName": "Anandi Chapra",
+    "villageCode": "0225",
+    "thanaNo": "0056",
+    "extra": "1010"
+  },
+  {
+    "selectIndex": 2,
+    "hindiName": "आशापट़टी",
+    "englishName": "Asha Patti",
+    "villageCode": "0164",
+    "thanaNo": "0003",
+    "extra": "1766"
+  },
+  {
+    "selectIndex": 3,
+    "hindiName": "एराजी जगदीश",
+    "englishName": "Eraji Jagdish",
+    "villageCode": "1710",
+    "thanaNo": "0040",
+    "extra": "135"
+  },
+  {
+    "selectIndex": 4,
+    "hindiName": "एराजी जगदीशपुर",
+    "englishName": "Eraji Jagdishpur",
+    "villageCode": "1581",
+    "thanaNo": "0040",
+    "extra": "188"
+  },
+  {
+    "selectIndex": 5,
+    "hindiName": "एराजी जगदीशपुर",
+    "englishName": "Eraji Jagdishpur",
+    "villageCode": "1293",
+    "thanaNo": "0040",
+    "extra": "135"
+  },
+  {
+    "selectIndex": 6,
+    "hindiName": "एराजी वन्दोवस्ती",
+    "englishName": "Eraji Vandbasti",
+    "villageCode": "1689",
+    "thanaNo": "0055",
+    "extra": "545"
+  },
+  {
+    "selectIndex": 7,
+    "hindiName": "करनौल चतुर्भूज",
+    "englishName": "Karnaul Chaturbhuj",
+    "villageCode": "0176",
+    "thanaNo": "0027",
+    "extra": "618"
+  },
+  {
+    "selectIndex": 8,
+    "hindiName": "करनौल निलकंठ",
+    "englishName": "Karnaul Nilkanth",
+    "villageCode": "1703",
+    "thanaNo": "0019",
+    "extra": "807"
+  },
+  {
+    "selectIndex": 9,
+    "hindiName": "खुर्शेदा",
+    "englishName": "Khursheda",
+    "villageCode": "0170",
+    "thanaNo": "0010",
+    "extra": "1409"
+  },
+  {
+    "selectIndex": 10,
+    "hindiName": "खोरी पाकड़",
+    "englishName": "Khori Pakar",
+    "villageCode": "0219",
+    "thanaNo": "0045",
+    "extra": "3081"
+  },
+  {
+    "selectIndex": 11,
+    "hindiName": "गुलावपट्टी",
+    "englishName": "Gulab Patti",
+    "villageCode": "1704",
+    "thanaNo": "0002",
+    "extra": "1094"
+  },
+  {
+    "selectIndex": 12,
+    "hindiName": "गीधा",
+    "englishName": "Gidha",
+    "villageCode": "0212",
+    "thanaNo": "0067",
+    "extra": "1174"
+  },
+  {
+    "selectIndex": 13,
+    "hindiName": "गोपीगंज",
+    "englishName": "Gopiganj",
+    "villageCode": "1553",
+    "thanaNo": "0017",
+    "extra": "416"
+  },
+  {
+    "selectIndex": 14,
+    "hindiName": "चक अब्दुल बहाब",
+    "englishName": "Chak Abdul Wahab",
+    "villageCode": "1546",
+    "thanaNo": "0035",
+    "extra": "43"
+  },
+  {
+    "selectIndex": 15,
+    "hindiName": "चक अहलाद",
+    "englishName": "Chak Ahlad",
+    "villageCode": "0184",
+    "thanaNo": "0109",
+    "extra": "948"
+  },
+  {
+    "selectIndex": 16,
+    "hindiName": "चकअव्दुल वहाव",
+    "englishName": "Chak Abdul Wahab",
+    "villageCode": "1477",
+    "thanaNo": "0035",
+    "extra": "54"
+  },
+  {
+    "selectIndex": 17,
+    "hindiName": "चकबाजी उर्फ बाजी",
+    "englishName": "Chakbaji urf Baji",
+    "villageCode": "1177",
+    "thanaNo": "0036",
+    "extra": "167"
+  },
+  {
+    "selectIndex": 18,
+    "hindiName": "चकरोटी तोड़",
+    "englishName": "Chakroti Tod",
+    "villageCode": "1220",
+    "thanaNo": "0022",
+    "extra": "90"
+  },
+  {
+    "selectIndex": 19,
+    "hindiName": "जगदीशपुर",
+    "englishName": "Jagdishpur",
+    "villageCode": "0216",
+    "thanaNo": "0039",
+    "extra": "1229"
+  },
+  {
+    "selectIndex": 20,
+    "hindiName": "जगदीशपुर",
+    "englishName": "Jagdishpur",
+    "villageCode": "0192",
+    "thanaNo": "0130",
+    "extra": "2882"
+  },
+  {
+    "selectIndex": 21,
+    "hindiName": "जहुरा",
+    "englishName": "Jahura",
+    "villageCode": "0204",
+    "thanaNo": "0059",
+    "extra": "2494"
+  },
+  {
+    "selectIndex": 22,
+    "hindiName": "जीता छपरा",
+    "englishName": "Jita Chapra",
+    "villageCode": "0202",
+    "thanaNo": "0136",
+    "extra": "3506"
+  },
+  {
+    "selectIndex": 23,
+    "hindiName": "तरावॉ",
+    "englishName": "Tarawa",
+    "villageCode": "0205",
+    "thanaNo": "0060",
+    "extra": "2896"
+  },
+  {
+    "selectIndex": 24,
+    "hindiName": "तेलिया छपरा",
+    "englishName": "Teliya Chapra",
+    "villageCode": "1475",
+    "thanaNo": "0051",
+    "extra": "1713"
+  },
+  {
+    "selectIndex": 25,
+    "hindiName": "तालगौड़ा",
+    "englishName": "Talgauda",
+    "villageCode": "1611",
+    "thanaNo": "0015",
+    "extra": "523"
+  },
+  {
+    "selectIndex": 26,
+    "hindiName": "देव घाड़ा",
+    "englishName": "Dev Ghada",
+    "villageCode": "1672",
+    "thanaNo": "0024",
+    "extra": "523"
+  },
+  {
+    "selectIndex": 27,
+    "hindiName": "देवसर असली",
+    "englishName": "Deosar Asli",
+    "villageCode": "0174",
+    "thanaNo": "0021",
+    "extra": "957"
+  },
+  {
+    "selectIndex": 28,
+    "hindiName": "दाहा छपरा",
+    "englishName": "Daha Chapra",
+    "villageCode": "0199",
+    "thanaNo": "0092",
+    "extra": "910"
+  },
+  {
+    "selectIndex": 29,
+    "hindiName": "दोस्‍तपुर",
+    "englishName": "Dostpur",
+    "villageCode": "0207",
+    "thanaNo": "0069",
+    "extra": "1085"
+  },
+  {
+    "selectIndex": 30,
+    "hindiName": "धर्मपुर",
+    "englishName": "Dharampur",
+    "villageCode": "0193",
+    "thanaNo": "0131",
+    "extra": "2556"
+  },
+  {
+    "selectIndex": 31,
+    "hindiName": "धर्मपुर",
+    "englishName": "Dharampur",
+    "villageCode": "1368",
+    "thanaNo": "0009",
+    "extra": "435"
+  },
+  {
+    "selectIndex": 32,
+    "hindiName": "धारोपाली",
+    "englishName": "Dharopali",
+    "villageCode": "1536",
+    "thanaNo": "0052",
+    "extra": "3622"
+  },
+  {
+    "selectIndex": 33,
+    "hindiName": "नबादा",
+    "englishName": "Nabada",
+    "villageCode": "0189",
+    "thanaNo": "0116",
+    "extra": "432"
+  },
+  {
+    "selectIndex": 34,
+    "hindiName": "नेमोपुर",
+    "englishName": "Nemopur",
+    "villageCode": "1479",
+    "thanaNo": "0920",
+    "extra": "1705"
+  },
+  {
+    "selectIndex": 35,
+    "hindiName": "नया टोला दोस्‍तपुर",
+    "englishName": "Naya Tola Dostpur",
+    "villageCode": "0223",
+    "thanaNo": "0050",
+    "extra": "554"
+  },
+  {
+    "selectIndex": 36,
+    "hindiName": "नया टोला मधुवनी",
+    "englishName": "Naya Tola Madhubani",
+    "villageCode": "0222",
+    "thanaNo": "0048",
+    "extra": "1449"
+  },
+  {
+    "selectIndex": 37,
+    "hindiName": "नवादा",
+    "englishName": "Nawada",
+    "villageCode": "1233",
+    "thanaNo": "0072",
+    "extra": "768"
+  },
+  {
+    "selectIndex": 38,
+    "hindiName": "नवादा",
+    "englishName": "Nawada",
+    "villageCode": "1291",
+    "thanaNo": "0006",
+    "extra": "354"
+  },
+  {
+    "selectIndex": 39,
+    "hindiName": "नवानगर एराजी",
+    "englishName": "Nawanagar Eraji",
+    "villageCode": "1180",
+    "thanaNo": "0041",
+    "extra": "201"
+  },
+  {
+    "selectIndex": 40,
+    "hindiName": "नवानगर निजामत",
+    "englishName": "Nawanagar Nizamat",
+    "villageCode": "0166",
+    "thanaNo": "0028",
+    "extra": "5833"
+  },
+  {
+    "selectIndex": 41,
+    "hindiName": "नावानगर मिल्की",
+    "englishName": "Nawangar Milki",
+    "villageCode": "1327",
+    "thanaNo": "0042",
+    "extra": "308"
+  },
+  {
+    "selectIndex": 42,
+    "hindiName": "पकड़ी बसारथ",
+    "englishName": "Pakdi Basarth",
+    "villageCode": "0200",
+    "thanaNo": "0132",
+    "extra": "3159"
+  },
+  {
+    "selectIndex": 43,
+    "hindiName": "पकरी असली",
+    "englishName": "Pakri Asli",
+    "villageCode": "0183",
+    "thanaNo": "0103",
+    "extra": "994"
+  },
+  {
+    "selectIndex": 44,
+    "hindiName": "प्रतापपट़टी",
+    "englishName": "Pratap Patti",
+    "villageCode": "0165",
+    "thanaNo": "0004",
+    "extra": "1547"
+  },
+  {
+    "selectIndex": 45,
+    "hindiName": "परसा सदन",
+    "englishName": "Parsa Sadan",
+    "villageCode": "0198",
+    "thanaNo": "0089",
+    "extra": "2550"
+  },
+  {
+    "selectIndex": 46,
+    "hindiName": "प्रसोनी जहांगीर",
+    "englishName": "Prasouni Jahangir",
+    "villageCode": "1684",
+    "thanaNo": "0011",
+    "extra": "745"
+  },
+  {
+    "selectIndex": 47,
+    "hindiName": "परसौनी रईसी",
+    "englishName": "Parsouni Raisi",
+    "villageCode": "0206",
+    "thanaNo": "0063",
+    "extra": "2033"
+  },
+  {
+    "selectIndex": 48,
+    "hindiName": "पहाड़पुर बरार",
+    "englishName": "Paharpur Barar",
+    "villageCode": "0185",
+    "thanaNo": "0110",
+    "extra": "640"
+  },
+  {
+    "selectIndex": 49,
+    "hindiName": "पहाड़पुर मनोरथ",
+    "englishName": "Paharpur Manorath",
+    "villageCode": "0186",
+    "thanaNo": "0112",
+    "extra": "1702"
+  },
+  {
+    "selectIndex": 50,
+    "hindiName": "पीपरा एराजी",
+    "englishName": "Pipra Eraji",
+    "villageCode": "0214",
+    "thanaNo": "0174",
+    "extra": "477"
+  },
+  {
+    "selectIndex": 51,
+    "hindiName": "पीपरा राधो",
+    "englishName": "Pipra Radho",
+    "villageCode": "0215",
+    "thanaNo": "0175",
+    "extra": "1884"
+  },
+  {
+    "selectIndex": 52,
+    "hindiName": "फूलबरिया",
+    "englishName": "Phulbariya",
+    "villageCode": "1608",
+    "thanaNo": "0037",
+    "extra": "584"
+  },
+  {
+    "selectIndex": 53,
+    "hindiName": "फुलसकरा",
+    "englishName": "Phulsakara",
+    "villageCode": "0203",
+    "thanaNo": "0137",
+    "extra": "2099"
+  },
+  {
+    "selectIndex": 54,
+    "hindiName": "बंगरा बरार",
+    "englishName": "Bangra Barar",
+    "villageCode": "1426",
+    "thanaNo": "0108",
+    "extra": "283"
+  },
+  {
+    "selectIndex": 55,
+    "hindiName": "बैधनाथपुर खाप",
+    "englishName": "Baidhnathpur Khap",
+    "villageCode": "0171",
+    "thanaNo": "0012",
+    "extra": "1632"
+  },
+  {
+    "selectIndex": 56,
+    "hindiName": "बेलकांटी धरहरा",
+    "englishName": "Belkanti Dharahra",
+    "villageCode": "0180",
+    "thanaNo": "0094",
+    "extra": "1882"
+  },
+  {
+    "selectIndex": 57,
+    "hindiName": "बल्थी नरसिंग",
+    "englishName": "Balthi Narsingh",
+    "villageCode": "1577",
+    "thanaNo": "0075",
+    "extra": "584"
+  },
+  {
+    "selectIndex": 58,
+    "hindiName": "बसंतपुर चैनपुर",
+    "englishName": "Basantpur Chainpur",
+    "villageCode": "0227",
+    "thanaNo": "0061",
+    "extra": "2642"
+  },
+  {
+    "selectIndex": 59,
+    "hindiName": "बाड़ाडीह",
+    "englishName": "Bada Dih",
+    "villageCode": "0190",
+    "thanaNo": "0095",
+    "extra": "1877"
+  },
+  {
+    "selectIndex": 60,
+    "hindiName": "बासदेवपुर सराया",
+    "englishName": "Basdevpur Saraiya",
+    "villageCode": "0167",
+    "thanaNo": "0018",
+    "extra": "2453"
+  },
+  {
+    "selectIndex": 61,
+    "hindiName": "भगवानपुर",
+    "englishName": "Bhagwanpur",
+    "villageCode": "1609",
+    "thanaNo": "0093",
+    "extra": "918"
+  },
+  {
+    "selectIndex": 62,
+    "hindiName": "भगवानपुर काशी",
+    "englishName": "Bhagwanpur Kashi",
+    "villageCode": "1373",
+    "thanaNo": "0053",
+    "extra": "911"
+  },
+  {
+    "selectIndex": 63,
+    "hindiName": "भलुही खान",
+    "englishName": "Bhaluhi Khan",
+    "villageCode": "1632",
+    "thanaNo": "0031",
+    "extra": "1084"
+  },
+  {
+    "selectIndex": 64,
+    "hindiName": "भलुही रसुल",
+    "englishName": "Bhaluhi Rasul",
+    "villageCode": "0177",
+    "thanaNo": "0030",
+    "extra": "1548"
+  },
+  {
+    "selectIndex": 65,
+    "hindiName": "भलुही सिकन्दर",
+    "englishName": "Bhaluhi Sikandar",
+    "villageCode": "1376",
+    "thanaNo": "0034",
+    "extra": "1289"
+  },
+  {
+    "selectIndex": 66,
+    "hindiName": "भीमपुरा",
+    "englishName": "Bhimapura",
+    "villageCode": "0201",
+    "thanaNo": "0135",
+    "extra": "1600"
+  },
+  {
+    "selectIndex": 67,
+    "hindiName": "मठ़वाल गोविन्दपुर मठिया",
+    "englishName": "Mathwal Govindpur Mathiya",
+    "villageCode": "1545",
+    "thanaNo": "0081",
+    "extra": "969"
+  },
+  {
+    "selectIndex": 68,
+    "hindiName": "मथुरापुर",
+    "englishName": "Mathurapur",
+    "villageCode": "0191",
+    "thanaNo": "0128",
+    "extra": "3051"
+  },
+  {
+    "selectIndex": 69,
+    "hindiName": "मधुवन सुरज",
+    "englishName": "Madhuban Suraj",
+    "villageCode": "1607",
+    "thanaNo": "0077",
+    "extra": "1358"
+  },
+  {
+    "selectIndex": 70,
+    "hindiName": "मनाईन",
+    "englishName": "Manain",
+    "villageCode": "1582",
+    "thanaNo": "0102",
+    "extra": "586"
+  },
+  {
+    "selectIndex": 71,
+    "hindiName": "महदैया तालुका",
+    "englishName": "Mahdaia Math",
+    "villageCode": "1147",
+    "thanaNo": "0086",
+    "extra": "802"
+  },
+  {
+    "selectIndex": 72,
+    "hindiName": "महम्‍मदपुर मकसुदन",
+    "englishName": "Mohammadpur Maksudan",
+    "villageCode": "0210",
+    "thanaNo": "0065",
+    "extra": "1260"
+  },
+  {
+    "selectIndex": 73,
+    "hindiName": "माधोपुर",
+    "englishName": "Madhopur",
+    "villageCode": "1179",
+    "thanaNo": "0020",
+    "extra": "106"
+  },
+  {
+    "selectIndex": 74,
+    "hindiName": "माधोपुर",
+    "englishName": "Madhopur",
+    "villageCode": "1544",
+    "thanaNo": "0071",
+    "extra": "1279"
+  },
+  {
+    "selectIndex": 75,
+    "hindiName": "माधोपुर हजारी",
+    "englishName": "Madhopur Hajari",
+    "villageCode": "0173",
+    "thanaNo": "0016",
+    "extra": "4254"
+  },
+  {
+    "selectIndex": 76,
+    "hindiName": "मोरहर",
+    "englishName": "Morhar",
+    "villageCode": "1706",
+    "thanaNo": "0114",
+    "extra": "566"
+  },
+  {
+    "selectIndex": 77,
+    "hindiName": "रजवारा",
+    "englishName": "Rajwara",
+    "villageCode": "0175",
+    "thanaNo": "0025",
+    "extra": "3564"
+  },
+  {
+    "selectIndex": 78,
+    "hindiName": "रुप छपड़ा",
+    "englishName": "Rup Chapra",
+    "villageCode": "1482",
+    "thanaNo": "0111",
+    "extra": "659"
+  },
+  {
+    "selectIndex": 79,
+    "hindiName": "रूप छपरा उर्फ संग्रामपुर",
+    "englishName": "Rup Chapra urf Sangrampur",
+    "villageCode": "0187",
+    "thanaNo": "0113",
+    "extra": "2261"
+  },
+  {
+    "selectIndex": 80,
+    "hindiName": "रसुलपुर",
+    "englishName": "Rasulpur",
+    "villageCode": "0172",
+    "thanaNo": "0014",
+    "extra": "1259"
+  },
+  {
+    "selectIndex": 81,
+    "hindiName": "राजेपुर",
+    "englishName": "Rajepur",
+    "villageCode": "0213",
+    "thanaNo": "0070",
+    "extra": "2165"
+  },
+  {
+    "selectIndex": 82,
+    "hindiName": "रामपुर असली",
+    "englishName": "Rampur Asli",
+    "villageCode": "0218",
+    "thanaNo": "0044",
+    "extra": "1782"
+  },
+  {
+    "selectIndex": 83,
+    "hindiName": "रामपुर खुर्द",
+    "englishName": "Rampur Khurd",
+    "villageCode": "0217",
+    "thanaNo": "0043",
+    "extra": "658"
+  },
+  {
+    "selectIndex": 84,
+    "hindiName": "रामपुर भिखनपुरा",
+    "englishName": "Rampur Bikhnapura",
+    "villageCode": "0224",
+    "thanaNo": "0054",
+    "extra": "2129"
+  },
+  {
+    "selectIndex": 85,
+    "hindiName": "लखना",
+    "englishName": "Lakhana",
+    "villageCode": "0211",
+    "thanaNo": "0066",
+    "extra": "976"
+  },
+  {
+    "selectIndex": 86,
+    "hindiName": "लोदियां",
+    "englishName": "Lodiyan",
+    "villageCode": "1606",
+    "thanaNo": "0026",
+    "extra": "746"
+  },
+  {
+    "selectIndex": 87,
+    "hindiName": "वैरिया",
+    "englishName": "Vairiya",
+    "villageCode": "1711",
+    "thanaNo": "0032",
+    "extra": "33"
+  },
+  {
+    "selectIndex": 88,
+    "hindiName": "वल्थी नरहर",
+    "englishName": "Balthi Narhar",
+    "villageCode": "0209",
+    "thanaNo": "0078",
+    "extra": "1454"
+  },
+  {
+    "selectIndex": 89,
+    "hindiName": "वल्थी रईसी",
+    "englishName": "Balthi Raisi",
+    "villageCode": "0208",
+    "thanaNo": "0074",
+    "extra": "1342"
+  },
+  {
+    "selectIndex": 90,
+    "hindiName": "वाजीदपुर",
+    "englishName": "Wazidpur",
+    "villageCode": "1225",
+    "thanaNo": "0126",
+    "extra": "1199"
+  },
+  {
+    "selectIndex": 91,
+    "hindiName": "विशुनपट़टी",
+    "englishName": "Vishun Patti",
+    "villageCode": "0182",
+    "thanaNo": "0100",
+    "extra": "4277"
+  },
+  {
+    "selectIndex": 92,
+    "hindiName": "विशुनपुर कल्यान",
+    "englishName": "Vishnupur Kalyan",
+    "villageCode": "0221",
+    "thanaNo": "0058",
+    "extra": "3459"
+  },
+  {
+    "selectIndex": 93,
+    "hindiName": "विशुनपुर चक",
+    "englishName": "Vishnupur Chak",
+    "villageCode": "0179",
+    "thanaNo": "0578",
+    "extra": "3496"
+  },
+  {
+    "selectIndex": 94,
+    "hindiName": "शाहपुर पट्टी",
+    "englishName": "Shahpur Patti",
+    "villageCode": "0196",
+    "thanaNo": "0129",
+    "extra": "2470"
+  },
+  {
+    "selectIndex": 95,
+    "hindiName": "शिवनगर",
+    "englishName": "Shivnagar",
+    "villageCode": "0178",
+    "thanaNo": "0104",
+    "extra": "538"
+  },
+  {
+    "selectIndex": 96,
+    "hindiName": "संग्रामपुर",
+    "englishName": "Sangrampur",
+    "villageCode": "1585",
+    "thanaNo": "0082",
+    "extra": "688"
+  },
+  {
+    "selectIndex": 97,
+    "hindiName": "सेमरा नन्हकार",
+    "englishName": "Semra Nanakar",
+    "villageCode": "0181",
+    "thanaNo": "0101",
+    "extra": "579"
+  },
+  {
+    "selectIndex": 98,
+    "hindiName": "सेमरा निजामत",
+    "englishName": "Semra Nizamat",
+    "villageCode": "0188",
+    "thanaNo": "0098",
+    "extra": "2710"
+  },
+  {
+    "selectIndex": 99,
+    "hindiName": "सरैया",
+    "englishName": "Saraiya",
+    "villageCode": "0197",
+    "thanaNo": "0084",
+    "extra": "3666"
+  },
+  {
+    "selectIndex": 100,
+    "hindiName": "सलेमपुर",
+    "englishName": "Salempur",
+    "villageCode": "0168",
+    "thanaNo": "0005",
+    "extra": "1061"
+  },
+  {
+    "selectIndex": 101,
+    "hindiName": "सितुआही",
+    "englishName": "Situahi",
+    "villageCode": "0220",
+    "thanaNo": "0049",
+    "extra": "1662"
+  },
+  {
+    "selectIndex": 102,
+    "hindiName": "सिमरा नन्कार",
+    "englishName": "Simra Nankar",
+    "villageCode": "1149",
+    "thanaNo": "0099",
+    "extra": "48"
+  },
+  {
+    "selectIndex": 103,
+    "hindiName": "सिमरी",
+    "englishName": "Simri",
+    "villageCode": "1476",
+    "thanaNo": "0068",
+    "extra": "747"
+  },
+  {
+    "selectIndex": 104,
+    "hindiName": "सोमगढ़",
+    "englishName": "Somgarh",
+    "villageCode": "0226",
+    "thanaNo": "0057",
+    "extra": "1669"
+  },
+  {
+    "selectIndex": 105,
+    "hindiName": "हुसैनपुर नया टोला",
+    "englishName": "Husainpur Naya Tola",
+    "villageCode": "0194",
+    "thanaNo": "0117",
+    "extra": "2349"
+  },
+  {
+    "selectIndex": 106,
+    "hindiName": "हस्‍सेपुर रत्‍ती",
+    "englishName": "Hassepur Ratti",
+    "villageCode": "0195",
+    "thanaNo": "0118",
+    "extra": "8455"
+  },
+  {
+    "selectIndex": 107,
+    "hindiName": "हीमत पट्टी",
+    "englishName": "Himmat Patti",
+    "villageCode": "1650",
+    "thanaNo": "0001",
+    "extra": "2358"
+  }
+]
