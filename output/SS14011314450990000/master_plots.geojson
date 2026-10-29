@@ -1,0 +1,8266 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "total_plots": 106,
+    "official_vector_count": 106,
+    "source": "Government BhuNaksha Official Vector Database",
+    "village_name": "Simra Nankar(99)",
+    "district": "MUZAFFARPUR",
+    "circle": "Sahebganj",
+    "gis_code": "SS14011314450990000",
+    "crs": "EPSG:4326",
+    "bbox_utm": [
+      296662.39937331685,
+      2904720.463877053,
+      297274.36457570654,
+      2905030.877114568
+    ],
+    "ground_bounds": [
+      [
+        26.2480497,
+        84.9643927
+      ],
+      [
+        26.2505089,
+        84.9701526
+      ]
+    ],
+    "center": [
+      84.9672727,
+      26.2492793
+    ],
+    "harvested_at": "2026-10-16T11:43:14.730Z",
+    "survey_type": "SS",
+    "survey_name": "Special Survey (विशिष्ट सर्वेक्षण)"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "id": "SS14011314450990000_1",
+        "plot_index": 1,
+        "plot_number": "1",
+        "khasra_no": "1",
+        "official_plotno": "1",
+        "area_sqm": 463.96,
+        "area_acres": 0.115,
+        "centroid": [
+          84.9647494,
+          26.2501827
+        ],
+        "point_on_surface": [
+          84.9647494,
+          26.2501827
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 1\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9649425,
+                26.2501044
+              ],
+              [
+                84.9648425,
+                26.2501205
+              ],
+              [
+                84.9646503,
+                26.2501636
+              ],
+              [
+                84.9644755,
+                26.2502061
+              ],
+              [
+                84.9644827,
+                26.2502896
+              ],
+              [
+                84.9646807,
+                26.2502493
+              ],
+              [
+                84.9647645,
+                26.2502314
+              ],
+              [
+                84.9649632,
+                26.2501752
+              ],
+              [
+                84.9649425,
+                26.2501044
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "id": "SS14011314450990000_2",
+        "plot_index": 2,
+        "plot_number": "2",
+        "khasra_no": "2",
+        "official_plotno": "2",
+        "area_sqm": 437.67,
+        "area_acres": 0.108,
+        "centroid": [
+          84.9681172,
+          26.2484054
+        ],
+        "point_on_surface": [
+          84.9681172,
+          26.2484054
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 2\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9682399,
+                26.2483418
+              ],
+              [
+                84.9681592,
+                26.2483501
+              ],
+              [
+                84.968051,
+                26.2483808
+              ],
+              [
+                84.968013,
+                26.2483951
+              ],
+              [
+                84.9679093,
+                26.2484317
+              ],
+              [
+                84.9679154,
+                26.2484995
+              ],
+              [
+                84.9682708,
+                26.2484831
+              ],
+              [
+                84.9682566,
+                26.2484249
+              ],
+              [
+                84.9682399,
+                26.2483418
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "id": "SS14011314450990000_3",
+        "plot_index": 3,
+        "plot_number": "3",
+        "khasra_no": "3",
+        "official_plotno": "3",
+        "area_sqm": 1600.36,
+        "area_acres": 0.395,
+        "centroid": [
+          84.968168,
+          26.2482113
+        ],
+        "point_on_surface": [
+          84.968168,
+          26.2482113
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 3\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9679586,
+                26.2481384
+              ],
+              [
+                84.9680009,
+                26.2482591
+              ],
+              [
+                84.968051,
+                26.2483808
+              ],
+              [
+                84.9681592,
+                26.2483501
+              ],
+              [
+                84.9682399,
+                26.2483418
+              ],
+              [
+                84.9683326,
+                26.2483251
+              ],
+              [
+                84.9684361,
+                26.2483149
+              ],
+              [
+                84.9684359,
+                26.2482841
+              ],
+              [
+                84.9683997,
+                26.2481335
+              ],
+              [
+                84.9683504,
+                26.2479672
+              ],
+              [
+                84.9679296,
+                26.2480522
+              ],
+              [
+                84.9679318,
+                26.2480618
+              ],
+              [
+                84.9679586,
+                26.2481384
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "id": "SS14011314450990000_4",
+        "plot_index": 4,
+        "plot_number": "4",
+        "khasra_no": "4",
+        "official_plotno": "4",
+        "area_sqm": 1401.98,
+        "area_acres": 0.346,
+        "centroid": [
+          84.9686029,
+          26.2481542
+        ],
+        "point_on_surface": [
+          84.9686029,
+          26.2481542
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 4\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9687632,
+                26.2482592
+              ],
+              [
+                84.9687502,
+                26.2481152
+              ],
+              [
+                84.9687525,
+                26.2480455
+              ],
+              [
+                84.9687077,
+                26.247895
+              ],
+              [
+                84.9683504,
+                26.2479672
+              ],
+              [
+                84.9683997,
+                26.2481335
+              ],
+              [
+                84.9684359,
+                26.2482841
+              ],
+              [
+                84.9684361,
+                26.2483149
+              ],
+              [
+                84.96867,
+                26.2482686
+              ],
+              [
+                84.9687632,
+                26.2482592
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "id": "SS14011314450990000_5",
+        "plot_index": 5,
+        "plot_number": "5",
+        "khasra_no": "5",
+        "official_plotno": "5",
+        "area_sqm": 870.58,
+        "area_acres": 0.215,
+        "centroid": [
+          84.9649082,
+          26.2502136
+        ],
+        "point_on_surface": [
+          84.9649082,
+          26.2502136
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 5\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9649748,
+                26.2503076
+              ],
+              [
+                84.9650906,
+                26.2502812
+              ],
+              [
+                84.9650693,
+                26.2501719
+              ],
+              [
+                84.9650647,
+                26.2501135
+              ],
+              [
+                84.9650693,
+                26.2500963
+              ],
+              [
+                84.9650831,
+                26.2500813
+              ],
+              [
+                84.9650868,
+                26.2500796
+              ],
+              [
+                84.9649425,
+                26.2501044
+              ],
+              [
+                84.9649632,
+                26.2501752
+              ],
+              [
+                84.9647645,
+                26.2502314
+              ],
+              [
+                84.9646807,
+                26.2502493
+              ],
+              [
+                84.9644827,
+                26.2502896
+              ],
+              [
+                84.9644912,
+                26.2503875
+              ],
+              [
+                84.9648854,
+                26.2503279
+              ],
+              [
+                84.9649748,
+                26.2503076
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "id": "SS14011314450990000_6",
+        "plot_index": 6,
+        "plot_number": "6",
+        "khasra_no": "6",
+        "official_plotno": "6",
+        "area_sqm": 1871.2,
+        "area_acres": 0.462,
+        "centroid": [
+          84.9646968,
+          26.2499878
+        ],
+        "point_on_surface": [
+          84.9646968,
+          26.2499878
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 6\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9649425,
+                26.2501044
+              ],
+              [
+                84.9649074,
+                26.2499263
+              ],
+              [
+                84.9649053,
+                26.2499128
+              ],
+              [
+                84.9649177,
+                26.2499112
+              ],
+              [
+                84.9648627,
+                26.2497356
+              ],
+              [
+                84.9645854,
+                26.2498183
+              ],
+              [
+                84.9643916,
+                26.2498695
+              ],
+              [
+                84.9644244,
+                26.2499333
+              ],
+              [
+                84.9644451,
+                26.2499768
+              ],
+              [
+                84.9644617,
+                26.2500468
+              ],
+              [
+                84.9644755,
+                26.2502061
+              ],
+              [
+                84.9646503,
+                26.2501636
+              ],
+              [
+                84.9648425,
+                26.2501205
+              ],
+              [
+                84.9649425,
+                26.2501044
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "id": "SS14011314450990000_7",
+        "plot_index": 7,
+        "plot_number": "7",
+        "khasra_no": "7",
+        "official_plotno": "7",
+        "area_sqm": 272.48,
+        "area_acres": 0.067,
+        "centroid": [
+          84.9653245,
+          26.2497523
+        ],
+        "point_on_surface": [
+          84.9653245,
+          26.2497523
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 7\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9653418,
+                26.2496516
+              ],
+              [
+                84.9653283,
+                26.2496529
+              ],
+              [
+                84.9652399,
+                26.2496613
+              ],
+              [
+                84.9652835,
+                26.2499118
+              ],
+              [
+                84.9653692,
+                26.2499044
+              ],
+              [
+                84.965367,
+                26.2498328
+              ],
+              [
+                84.9653418,
+                26.2496516
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "id": "SS14011314450990000_8",
+        "plot_index": 8,
+        "plot_number": "8",
+        "khasra_no": "8",
+        "official_plotno": "8",
+        "area_sqm": 200.28,
+        "area_acres": 0.049,
+        "centroid": [
+          84.9688807,
+          26.2492698
+        ],
+        "point_on_surface": [
+          84.9688807,
+          26.2492698
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 8\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9688363,
+                26.2491995
+              ],
+              [
+                84.968838,
+                26.2492114
+              ],
+              [
+                84.9688702,
+                26.2493503
+              ],
+              [
+                84.9688838,
+                26.2494042
+              ],
+              [
+                84.9689438,
+                26.249389
+              ],
+              [
+                84.9689415,
+                26.2493771
+              ],
+              [
+                84.9689238,
+                26.2492833
+              ],
+              [
+                84.9689037,
+                26.2491316
+              ],
+              [
+                84.9688295,
+                26.2491518
+              ],
+              [
+                84.9688363,
+                26.2491995
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "id": "SS14011314450990000_9",
+        "plot_index": 9,
+        "plot_number": "9",
+        "khasra_no": "9",
+        "official_plotno": "9",
+        "area_sqm": 483.42,
+        "area_acres": 0.119,
+        "centroid": [
+          84.9687979,
+          26.248863
+        ],
+        "point_on_surface": [
+          84.9687979,
+          26.248863
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 9\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9687317,
+                26.2487123
+              ],
+              [
+                84.9687534,
+                26.248813
+              ],
+              [
+                84.9687554,
+                26.2488208
+              ],
+              [
+                84.9687829,
+                26.2489271
+              ],
+              [
+                84.9688071,
+                26.2490104
+              ],
+              [
+                84.9688117,
+                26.2490262
+              ],
+              [
+                84.9688295,
+                26.2491518
+              ],
+              [
+                84.9689037,
+                26.2491316
+              ],
+              [
+                84.9688905,
+                26.2490576
+              ],
+              [
+                84.9688625,
+                26.2489163
+              ],
+              [
+                84.9688364,
+                26.2487497
+              ],
+              [
+                84.9688209,
+                26.2486321
+              ],
+              [
+                84.9687342,
+                26.2486407
+              ],
+              [
+                84.9687169,
+                26.2486437
+              ],
+              [
+                84.9687317,
+                26.2487123
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "id": "SS14011314450990000_10",
+        "plot_index": 10,
+        "plot_number": "10",
+        "khasra_no": "10",
+        "official_plotno": "10",
+        "area_sqm": 1639.95,
+        "area_acres": 0.405,
+        "centroid": [
+          84.9685253,
+          26.2484881
+        ],
+        "point_on_surface": [
+          84.9685253,
+          26.2484881
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 10\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9683684,
+                26.2485943
+              ],
+              [
+                84.9685465,
+                26.2485785
+              ],
+              [
+                84.9685605,
+                26.2485775
+              ],
+              [
+                84.9687005,
+                26.2485677
+              ],
+              [
+                84.9687169,
+                26.2486437
+              ],
+              [
+                84.9687342,
+                26.2486407
+              ],
+              [
+                84.9688209,
+                26.2486321
+              ],
+              [
+                84.9688116,
+                26.2485718
+              ],
+              [
+                84.9687632,
+                26.2482592
+              ],
+              [
+                84.96867,
+                26.2482686
+              ],
+              [
+                84.9684361,
+                26.2483149
+              ],
+              [
+                84.9683326,
+                26.2483251
+              ],
+              [
+                84.9682399,
+                26.2483418
+              ],
+              [
+                84.9682566,
+                26.2484249
+              ],
+              [
+                84.9682708,
+                26.2484831
+              ],
+              [
+                84.9683334,
+                26.2484803
+              ],
+              [
+                84.9683684,
+                26.2485943
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "id": "SS14011314450990000_11",
+        "plot_index": 11,
+        "plot_number": "11",
+        "khasra_no": "11",
+        "official_plotno": "11",
+        "area_sqm": 2999.93,
+        "area_acres": 0.741,
+        "centroid": [
+          84.9676173,
+          26.248406
+        ],
+        "point_on_surface": [
+          84.9676173,
+          26.248406
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 11\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9675238,
+                26.2485365
+              ],
+              [
+                84.9678488,
+                26.2485025
+              ],
+              [
+                84.9678543,
+                26.2485023
+              ],
+              [
+                84.9679154,
+                26.2484995
+              ],
+              [
+                84.9679093,
+                26.2484317
+              ],
+              [
+                84.968013,
+                26.2483951
+              ],
+              [
+                84.968051,
+                26.2483808
+              ],
+              [
+                84.9680009,
+                26.2482591
+              ],
+              [
+                84.9679586,
+                26.2481384
+              ],
+              [
+                84.9676916,
+                26.2482082
+              ],
+              [
+                84.9675857,
+                26.2482263
+              ],
+              [
+                84.9671146,
+                26.2483468
+              ],
+              [
+                84.9670151,
+                26.2483646
+              ],
+              [
+                84.9670454,
+                26.2484197
+              ],
+              [
+                84.9671064,
+                26.2485983
+              ],
+              [
+                84.9673356,
+                26.2485562
+              ],
+              [
+                84.9675238,
+                26.2485365
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "id": "SS14011314450990000_12",
+        "plot_index": 12,
+        "plot_number": "12",
+        "khasra_no": "12",
+        "official_plotno": "12",
+        "area_sqm": 1245.17,
+        "area_acres": 0.308,
+        "centroid": [
+          84.9648381,
+          26.2504584
+        ],
+        "point_on_surface": [
+          84.9648381,
+          26.2504584
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 12\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9650081,
+                26.2504823
+              ],
+              [
+                84.9649748,
+                26.2503076
+              ],
+              [
+                84.9648854,
+                26.2503279
+              ],
+              [
+                84.9644912,
+                26.2503875
+              ],
+              [
+                84.9645063,
+                26.2506039
+              ],
+              [
+                84.9649212,
+                26.2505801
+              ],
+              [
+                84.9649094,
+                26.2504959
+              ],
+              [
+                84.9650081,
+                26.2504823
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "id": "SS14011314450990000_13",
+        "plot_index": 13,
+        "plot_number": "13",
+        "khasra_no": "13",
+        "official_plotno": "13",
+        "area_sqm": 4782.27,
+        "area_acres": 1.182,
+        "centroid": [
+          84.9694132,
+          26.248758
+        ],
+        "point_on_surface": [
+          84.9694132,
+          26.248758
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 13\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9698997,
+                26.2485616
+              ],
+              [
+                84.969888,
+                26.2485237
+              ],
+              [
+                84.9698576,
+                26.2484226
+              ],
+              [
+                84.9698492,
+                26.2484234
+              ],
+              [
+                84.9696087,
+                26.2484513
+              ],
+              [
+                84.9688116,
+                26.2485718
+              ],
+              [
+                84.9688209,
+                26.2486321
+              ],
+              [
+                84.9688364,
+                26.2487497
+              ],
+              [
+                84.9688625,
+                26.2489163
+              ],
+              [
+                84.9688905,
+                26.2490576
+              ],
+              [
+                84.9689575,
+                26.2490499
+              ],
+              [
+                84.9689873,
+                26.2490462
+              ],
+              [
+                84.9691265,
+                26.2490178
+              ],
+              [
+                84.9692702,
+                26.2489839
+              ],
+              [
+                84.9693576,
+                26.2489658
+              ],
+              [
+                84.9695045,
+                26.2489444
+              ],
+              [
+                84.9696183,
+                26.2489294
+              ],
+              [
+                84.969712,
+                26.2489226
+              ],
+              [
+                84.9696913,
+                26.2487578
+              ],
+              [
+                84.9696538,
+                26.2487579
+              ],
+              [
+                84.9696315,
+                26.2486042
+              ],
+              [
+                84.9697683,
+                26.2485822
+              ],
+              [
+                84.9698997,
+                26.2485616
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "id": "SS14011314450990000_14",
+        "plot_index": 14,
+        "plot_number": "14",
+        "khasra_no": "14",
+        "official_plotno": "14",
+        "area_sqm": 359.38,
+        "area_acres": 0.089,
+        "centroid": [
+          84.9671828,
+          26.2499235
+        ],
+        "point_on_surface": [
+          84.9671828,
+          26.2499235
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 14\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9672666,
+                26.2500036
+              ],
+              [
+                84.9672238,
+                26.2497732
+              ],
+              [
+                84.9670904,
+                26.2497761
+              ],
+              [
+                84.96712,
+                26.2499662
+              ],
+              [
+                84.9671292,
+                26.2500184
+              ],
+              [
+                84.9672666,
+                26.2500036
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "id": "SS14011314450990000_15",
+        "plot_index": 15,
+        "plot_number": "15",
+        "khasra_no": "15",
+        "official_plotno": "15",
+        "area_sqm": 321.48,
+        "area_acres": 0.079,
+        "centroid": [
+          84.9672075,
+          26.2501246
+        ],
+        "point_on_surface": [
+          84.9672075,
+          26.2501246
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 15\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9671618,
+                26.2502239
+              ],
+              [
+                84.9673059,
+                26.2502056
+              ],
+              [
+                84.9672795,
+                26.2500726
+              ],
+              [
+                84.9672666,
+                26.2500036
+              ],
+              [
+                84.9671292,
+                26.2500184
+              ],
+              [
+                84.9671478,
+                26.2501245
+              ],
+              [
+                84.9671618,
+                26.2502239
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "properties": {
+        "id": "SS14011314450990000_16",
+        "plot_index": 16,
+        "plot_number": "16",
+        "khasra_no": "16",
+        "official_plotno": "16",
+        "area_sqm": 813.53,
+        "area_acres": 0.201,
+        "centroid": [
+          84.9672922,
+          26.249929
+        ],
+        "point_on_surface": [
+          84.9672922,
+          26.249929
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 16\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9671831,
+                26.249577
+              ],
+              [
+                84.9672238,
+                26.2497732
+              ],
+              [
+                84.9672666,
+                26.2500036
+              ],
+              [
+                84.9672795,
+                26.2500726
+              ],
+              [
+                84.9673059,
+                26.2502056
+              ],
+              [
+                84.967316,
+                26.2502562
+              ],
+              [
+                84.9674259,
+                26.2502369
+              ],
+              [
+                84.9673836,
+                26.250072
+              ],
+              [
+                84.9673504,
+                26.2498833
+              ],
+              [
+                84.967296,
+                26.2495621
+              ],
+              [
+                84.9671831,
+                26.249577
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "id": "SS14011314450990000_17",
+        "plot_index": 17,
+        "plot_number": "17",
+        "khasra_no": "17",
+        "official_plotno": "17",
+        "area_sqm": 295.41,
+        "area_acres": 0.073,
+        "centroid": [
+          84.9671437,
+          26.2496599
+        ],
+        "point_on_surface": [
+          84.9671437,
+          26.2496599
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 17\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9671831,
+                26.249577
+              ],
+              [
+                84.9670383,
+                26.249596
+              ],
+              [
+                84.9670904,
+                26.2497761
+              ],
+              [
+                84.9672238,
+                26.2497732
+              ],
+              [
+                84.9671831,
+                26.249577
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "properties": {
+        "id": "SS14011314450990000_18",
+        "plot_index": 18,
+        "plot_number": "18",
+        "khasra_no": "18",
+        "official_plotno": "18",
+        "area_sqm": 1629.71,
+        "area_acres": 0.403,
+        "centroid": [
+          84.9672971,
+          26.2488729
+        ],
+        "point_on_surface": [
+          84.9672971,
+          26.2488729
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 18\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9675885,
+                26.2486929
+              ],
+              [
+                84.9669531,
+                26.2488493
+              ],
+              [
+                84.9669629,
+                26.2488586
+              ],
+              [
+                84.9669924,
+                26.2488864
+              ],
+              [
+                84.9670625,
+                26.2490483
+              ],
+              [
+                84.9671137,
+                26.2490211
+              ],
+              [
+                84.9674164,
+                26.2489831
+              ],
+              [
+                84.9676779,
+                26.2489408
+              ],
+              [
+                84.9676146,
+                26.248756
+              ],
+              [
+                84.9675885,
+                26.2486929
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "id": "SS14011314450990000_19",
+        "plot_index": 19,
+        "plot_number": "19",
+        "khasra_no": "19",
+        "official_plotno": "19",
+        "area_sqm": 862.16,
+        "area_acres": 0.213,
+        "centroid": [
+          84.9682433,
+          26.2489454
+        ],
+        "point_on_surface": [
+          84.9682433,
+          26.2489454
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 19\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9680258,
+                26.2490853
+              ],
+              [
+                84.9683305,
+                26.2490133
+              ],
+              [
+                84.9685464,
+                26.2489828
+              ],
+              [
+                84.9685065,
+                26.248858
+              ],
+              [
+                84.9684007,
+                26.2488626
+              ],
+              [
+                84.9683517,
+                26.2488647
+              ],
+              [
+                84.9681802,
+                26.2488907
+              ],
+              [
+                84.968064,
+                26.2489058
+              ],
+              [
+                84.9680011,
+                26.2489056
+              ],
+              [
+                84.9680258,
+                26.2490853
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "id": "SS14011314450990000_20",
+        "plot_index": 20,
+        "plot_number": "20",
+        "khasra_no": "20",
+        "official_plotno": "20",
+        "area_sqm": 664.81,
+        "area_acres": 0.164,
+        "centroid": [
+          84.9687535,
+          26.2493391
+        ],
+        "point_on_surface": [
+          84.9687535,
+          26.2493391
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 20\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9685995,
+                26.2492422
+              ],
+              [
+                84.9686145,
+                26.2493366
+              ],
+              [
+                84.968627,
+                26.2494059
+              ],
+              [
+                84.9686417,
+                26.2494869
+              ],
+              [
+                84.9688906,
+                26.2494304
+              ],
+              [
+                84.9688878,
+                26.24942
+              ],
+              [
+                84.9688838,
+                26.2494042
+              ],
+              [
+                84.9688702,
+                26.2493503
+              ],
+              [
+                84.968838,
+                26.2492114
+              ],
+              [
+                84.9688363,
+                26.2491995
+              ],
+              [
+                84.9685995,
+                26.2492422
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "id": "SS14011314450990000_21",
+        "plot_index": 21,
+        "plot_number": "21",
+        "khasra_no": "21",
+        "official_plotno": "21",
+        "area_sqm": 1358.77,
+        "area_acres": 0.336,
+        "centroid": [
+          84.9683327,
+          26.2491775
+        ],
+        "point_on_surface": [
+          84.9683327,
+          26.2491775
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 21\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9680864,
+                26.2492946
+              ],
+              [
+                84.9681547,
+                26.2492705
+              ],
+              [
+                84.9682313,
+                26.2492544
+              ],
+              [
+                84.9684374,
+                26.2492482
+              ],
+              [
+                84.9685995,
+                26.2492422
+              ],
+              [
+                84.9685969,
+                26.2492264
+              ],
+              [
+                84.9685648,
+                26.2490406
+              ],
+              [
+                84.9685464,
+                26.2489828
+              ],
+              [
+                84.9683305,
+                26.2490133
+              ],
+              [
+                84.9680258,
+                26.2490853
+              ],
+              [
+                84.9680864,
+                26.2492946
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "id": "SS14011314450990000_22",
+        "plot_index": 22,
+        "plot_number": "22",
+        "khasra_no": "22",
+        "official_plotno": "22",
+        "area_sqm": 579.71,
+        "area_acres": 0.143,
+        "centroid": [
+          84.9683677,
+          26.2494991
+        ],
+        "point_on_surface": [
+          84.9683677,
+          26.2494991
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 22\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9681668,
+                26.2494676
+              ],
+              [
+                84.9681748,
+                26.2496171
+              ],
+              [
+                84.9682618,
+                26.2495878
+              ],
+              [
+                84.9684446,
+                26.2495477
+              ],
+              [
+                84.9686245,
+                26.2494922
+              ],
+              [
+                84.9686417,
+                26.2494869
+              ],
+              [
+                84.968627,
+                26.2494059
+              ],
+              [
+                84.9683623,
+                26.2494514
+              ],
+              [
+                84.9682068,
+                26.249467
+              ],
+              [
+                84.9681668,
+                26.2494676
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "id": "SS14011314450990000_23",
+        "plot_index": 23,
+        "plot_number": "23",
+        "khasra_no": "23",
+        "official_plotno": "23",
+        "area_sqm": 1056.54,
+        "area_acres": 0.261,
+        "centroid": [
+          84.9683146,
+          26.2493587
+        ],
+        "point_on_surface": [
+          84.9683146,
+          26.2493587
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 23\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9681668,
+                26.2494676
+              ],
+              [
+                84.9682068,
+                26.249467
+              ],
+              [
+                84.9683623,
+                26.2494514
+              ],
+              [
+                84.968627,
+                26.2494059
+              ],
+              [
+                84.9686145,
+                26.2493366
+              ],
+              [
+                84.9685995,
+                26.2492422
+              ],
+              [
+                84.9684374,
+                26.2492482
+              ],
+              [
+                84.9682313,
+                26.2492544
+              ],
+              [
+                84.9681547,
+                26.2492705
+              ],
+              [
+                84.9680864,
+                26.2492946
+              ],
+              [
+                84.9681217,
+                26.249399
+              ],
+              [
+                84.9681668,
+                26.2494676
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "properties": {
+        "id": "SS14011314450990000_24",
+        "plot_index": 24,
+        "plot_number": "24",
+        "khasra_no": "24",
+        "official_plotno": "24",
+        "area_sqm": 247.28,
+        "area_acres": 0.061,
+        "centroid": [
+          84.9686452,
+          26.2486616
+        ],
+        "point_on_surface": [
+          84.9686452,
+          26.2486616
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 24\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9685808,
+                26.2487343
+              ],
+              [
+                84.9687317,
+                26.2487123
+              ],
+              [
+                84.9687169,
+                26.2486437
+              ],
+              [
+                84.9687005,
+                26.2485677
+              ],
+              [
+                84.9685605,
+                26.2485775
+              ],
+              [
+                84.9685808,
+                26.2487343
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "properties": {
+        "id": "SS14011314450990000_25",
+        "plot_index": 25,
+        "plot_number": "25",
+        "khasra_no": "25",
+        "official_plotno": "25",
+        "area_sqm": 472.27,
+        "area_acres": 0.117,
+        "centroid": [
+          84.9685041,
+          26.2487109
+        ],
+        "point_on_surface": [
+          84.9685041,
+          26.2487109
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 25\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9685808,
+                26.2487343
+              ],
+              [
+                84.9685605,
+                26.2485775
+              ],
+              [
+                84.9685465,
+                26.2485785
+              ],
+              [
+                84.9683684,
+                26.2485943
+              ],
+              [
+                84.9684007,
+                26.2488626
+              ],
+              [
+                84.9685065,
+                26.248858
+              ],
+              [
+                84.9684888,
+                26.2487478
+              ],
+              [
+                84.9685808,
+                26.2487343
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "id": "SS14011314450990000_26",
+        "plot_index": 26,
+        "plot_number": "26",
+        "khasra_no": "26",
+        "official_plotno": "26",
+        "area_sqm": 2187.76,
+        "area_acres": 0.541,
+        "centroid": [
+          84.9681342,
+          26.2487369
+        ],
+        "point_on_surface": [
+          84.9681342,
+          26.2487369
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 26\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9684007,
+                26.2488626
+              ],
+              [
+                84.9683684,
+                26.2485943
+              ],
+              [
+                84.9683334,
+                26.2484803
+              ],
+              [
+                84.9682708,
+                26.2484831
+              ],
+              [
+                84.9679154,
+                26.2484995
+              ],
+              [
+                84.9678543,
+                26.2485023
+              ],
+              [
+                84.9678715,
+                26.2486554
+              ],
+              [
+                84.9679207,
+                26.2489045
+              ],
+              [
+                84.9679464,
+                26.2489054
+              ],
+              [
+                84.9680011,
+                26.2489056
+              ],
+              [
+                84.968064,
+                26.2489058
+              ],
+              [
+                84.9681802,
+                26.2488907
+              ],
+              [
+                84.9683517,
+                26.2488647
+              ],
+              [
+                84.9684007,
+                26.2488626
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "properties": {
+        "id": "SS14011314450990000_27",
+        "plot_index": 27,
+        "plot_number": "27",
+        "khasra_no": "27",
+        "official_plotno": "27",
+        "area_sqm": 1284.07,
+        "area_acres": 0.317,
+        "centroid": [
+          84.9677388,
+          26.2487088
+        ],
+        "point_on_surface": [
+          84.9677388,
+          26.2487088
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 27\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9675885,
+                26.2486929
+              ],
+              [
+                84.9676146,
+                26.248756
+              ],
+              [
+                84.9676779,
+                26.2489408
+              ],
+              [
+                84.9678993,
+                26.2489037
+              ],
+              [
+                84.9679207,
+                26.2489045
+              ],
+              [
+                84.9678715,
+                26.2486554
+              ],
+              [
+                84.9678543,
+                26.2485023
+              ],
+              [
+                84.9678488,
+                26.2485025
+              ],
+              [
+                84.9675238,
+                26.2485365
+              ],
+              [
+                84.9675885,
+                26.2486929
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "properties": {
+        "id": "SS14011314450990000_28",
+        "plot_index": 28,
+        "plot_number": "28",
+        "khasra_no": "28",
+        "official_plotno": "28",
+        "area_sqm": 1439.98,
+        "area_acres": 0.356,
+        "centroid": [
+          84.9672328,
+          26.2486683
+        ],
+        "point_on_surface": [
+          84.9672328,
+          26.2486683
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 28\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9675885,
+                26.2486929
+              ],
+              [
+                84.9675238,
+                26.2485365
+              ],
+              [
+                84.9673356,
+                26.2485562
+              ],
+              [
+                84.9671064,
+                26.2485983
+              ],
+              [
+                84.9668644,
+                26.2486638
+              ],
+              [
+                84.9669018,
+                26.2487565
+              ],
+              [
+                84.9669531,
+                26.2488493
+              ],
+              [
+                84.9675885,
+                26.2486929
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "properties": {
+        "id": "SS14011314450990000_29",
+        "plot_index": 29,
+        "plot_number": "29",
+        "khasra_no": "29",
+        "official_plotno": "29",
+        "area_sqm": 984.18,
+        "area_acres": 0.243,
+        "centroid": [
+          84.9668089,
+          26.2488127
+        ],
+        "point_on_surface": [
+          84.9668089,
+          26.2488127
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 29\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9669531,
+                26.2488493
+              ],
+              [
+                84.9669018,
+                26.2487565
+              ],
+              [
+                84.9668644,
+                26.2486638
+              ],
+              [
+                84.9664833,
+                26.2487471
+              ],
+              [
+                84.9665434,
+                26.2489646
+              ],
+              [
+                84.9669629,
+                26.2488586
+              ],
+              [
+                84.9669531,
+                26.2488493
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "properties": {
+        "id": "SS14011314450990000_30",
+        "plot_index": 30,
+        "plot_number": "30",
+        "khasra_no": "30",
+        "official_plotno": "30",
+        "area_sqm": 1077.39,
+        "area_acres": 0.266,
+        "centroid": [
+          84.9667891,
+          26.2490146
+        ],
+        "point_on_surface": [
+          84.9667891,
+          26.2490146
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 30\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9665434,
+                26.2489646
+              ],
+              [
+                84.9665954,
+                26.2491529
+              ],
+              [
+                84.9667643,
+                26.2491321
+              ],
+              [
+                84.9668487,
+                26.2491095
+              ],
+              [
+                84.9670625,
+                26.2490483
+              ],
+              [
+                84.9669924,
+                26.2488864
+              ],
+              [
+                84.9669629,
+                26.2488586
+              ],
+              [
+                84.9665434,
+                26.2489646
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "id": "SS14011314450990000_31",
+        "plot_index": 31,
+        "plot_number": "31",
+        "khasra_no": "31",
+        "official_plotno": "31",
+        "area_sqm": 1468.61,
+        "area_acres": 0.363,
+        "centroid": [
+          84.9673553,
+          26.2491277
+        ],
+        "point_on_surface": [
+          84.9673553,
+          26.2491277
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 31\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9671632,
+                26.2491869
+              ],
+              [
+                84.967205,
+                26.2491819
+              ],
+              [
+                84.9673481,
+                26.249165
+              ],
+              [
+                84.9673886,
+                26.2492628
+              ],
+              [
+                84.9677216,
+                26.2492207
+              ],
+              [
+                84.9676779,
+                26.2489408
+              ],
+              [
+                84.9674164,
+                26.2489831
+              ],
+              [
+                84.9671137,
+                26.2490211
+              ],
+              [
+                84.9671632,
+                26.2491869
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "properties": {
+        "id": "SS14011314450990000_32",
+        "plot_index": 32,
+        "plot_number": "32",
+        "khasra_no": "32",
+        "official_plotno": "32",
+        "area_sqm": 2886.81,
+        "area_acres": 0.713,
+        "centroid": [
+          84.9679488,
+          26.2492498
+        ],
+        "point_on_surface": [
+          84.9679488,
+          26.2492498
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 32\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9680258,
+                26.2490853
+              ],
+              [
+                84.9680011,
+                26.2489056
+              ],
+              [
+                84.9679464,
+                26.2489054
+              ],
+              [
+                84.9679207,
+                26.2489045
+              ],
+              [
+                84.9678993,
+                26.2489037
+              ],
+              [
+                84.9676779,
+                26.2489408
+              ],
+              [
+                84.9677216,
+                26.2492207
+              ],
+              [
+                84.9677295,
+                26.2493236
+              ],
+              [
+                84.9677867,
+                26.2496611
+              ],
+              [
+                84.967856,
+                26.2496556
+              ],
+              [
+                84.9680403,
+                26.2496275
+              ],
+              [
+                84.9681748,
+                26.2496171
+              ],
+              [
+                84.9681668,
+                26.2494676
+              ],
+              [
+                84.9681217,
+                26.249399
+              ],
+              [
+                84.9680864,
+                26.2492946
+              ],
+              [
+                84.9680258,
+                26.2490853
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "properties": {
+        "id": "SS14011314450990000_33",
+        "plot_index": 33,
+        "plot_number": "33",
+        "khasra_no": "33",
+        "official_plotno": "33",
+        "area_sqm": 305.86,
+        "area_acres": 0.076,
+        "centroid": [
+          84.9686176,
+          26.248792
+        ],
+        "point_on_surface": [
+          84.9686176,
+          26.248792
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 33\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9685065,
+                26.248858
+              ],
+              [
+                84.9687554,
+                26.2488208
+              ],
+              [
+                84.9687534,
+                26.248813
+              ],
+              [
+                84.9687317,
+                26.2487123
+              ],
+              [
+                84.9685808,
+                26.2487343
+              ],
+              [
+                84.9684888,
+                26.2487478
+              ],
+              [
+                84.9685065,
+                26.248858
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "properties": {
+        "id": "SS14011314450990000_34",
+        "plot_index": 34,
+        "plot_number": "34",
+        "khasra_no": "34",
+        "official_plotno": "34",
+        "area_sqm": 533.12,
+        "area_acres": 0.132,
+        "centroid": [
+          84.9687013,
+          26.2491172
+        ],
+        "point_on_surface": [
+          84.9687013,
+          26.2491172
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 34\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9685648,
+                26.2490406
+              ],
+              [
+                84.9685969,
+                26.2492264
+              ],
+              [
+                84.9685995,
+                26.2492422
+              ],
+              [
+                84.9688363,
+                26.2491995
+              ],
+              [
+                84.9688295,
+                26.2491518
+              ],
+              [
+                84.9688117,
+                26.2490262
+              ],
+              [
+                84.9688071,
+                26.2490104
+              ],
+              [
+                84.9685648,
+                26.2490406
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "properties": {
+        "id": "SS14011314450990000_35",
+        "plot_index": 35,
+        "plot_number": "35",
+        "khasra_no": "35",
+        "official_plotno": "35",
+        "area_sqm": 524.96,
+        "area_acres": 0.13,
+        "centroid": [
+          84.9686468,
+          26.2489543
+        ],
+        "point_on_surface": [
+          84.9686468,
+          26.2489543
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 35\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9685648,
+                26.2490406
+              ],
+              [
+                84.9688071,
+                26.2490104
+              ],
+              [
+                84.9687829,
+                26.2489271
+              ],
+              [
+                84.9687554,
+                26.2488208
+              ],
+              [
+                84.9685065,
+                26.248858
+              ],
+              [
+                84.9685464,
+                26.2489828
+              ],
+              [
+                84.9685648,
+                26.2490406
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "properties": {
+        "id": "SS14011314450990000_36",
+        "plot_index": 36,
+        "plot_number": "36",
+        "khasra_no": "36",
+        "official_plotno": "36",
+        "area_sqm": 1452.65,
+        "area_acres": 0.359,
+        "centroid": [
+          84.9675803,
+          26.2494617
+        ],
+        "point_on_surface": [
+          84.9675803,
+          26.2494617
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 36\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9673886,
+                26.2492628
+              ],
+              [
+                84.9674306,
+                26.2495472
+              ],
+              [
+                84.9675262,
+                26.2495366
+              ],
+              [
+                84.9675398,
+                26.2496732
+              ],
+              [
+                84.9677115,
+                26.249667
+              ],
+              [
+                84.9677867,
+                26.2496611
+              ],
+              [
+                84.9677295,
+                26.2493236
+              ],
+              [
+                84.9677216,
+                26.2492207
+              ],
+              [
+                84.9673886,
+                26.2492628
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "properties": {
+        "id": "SS14011314450990000_37",
+        "plot_index": 37,
+        "plot_number": "37",
+        "khasra_no": "37",
+        "official_plotno": "37",
+        "area_sqm": 638.21,
+        "area_acres": 0.158,
+        "centroid": [
+          84.9669187,
+          26.2491556
+        ],
+        "point_on_surface": [
+          84.9669187,
+          26.2491556
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 37\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9667937,
+                26.2492347
+              ],
+              [
+                84.9668095,
+                26.2492779
+              ],
+              [
+                84.9671632,
+                26.2491869
+              ],
+              [
+                84.9671137,
+                26.2490211
+              ],
+              [
+                84.9670625,
+                26.2490483
+              ],
+              [
+                84.9668487,
+                26.2491095
+              ],
+              [
+                84.9667643,
+                26.2491321
+              ],
+              [
+                84.9667937,
+                26.2492347
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "properties": {
+        "id": "SS14011314450990000_38",
+        "plot_index": 38,
+        "plot_number": "38",
+        "khasra_no": "38",
+        "official_plotno": "38",
+        "area_sqm": 5768.29,
+        "area_acres": 1.425,
+        "centroid": [
+          84.9694496,
+          26.2482409
+        ],
+        "point_on_surface": [
+          84.9694496,
+          26.2482409
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 38\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9698065,
+                26.2481295
+              ],
+              [
+                84.9697811,
+                26.2479636
+              ],
+              [
+                84.9693926,
+                26.2479875
+              ],
+              [
+                84.9687525,
+                26.2480455
+              ],
+              [
+                84.9687502,
+                26.2481152
+              ],
+              [
+                84.9687632,
+                26.2482592
+              ],
+              [
+                84.9688116,
+                26.2485718
+              ],
+              [
+                84.9696087,
+                26.2484513
+              ],
+              [
+                84.9698492,
+                26.2484234
+              ],
+              [
+                84.9698576,
+                26.2484226
+              ],
+              [
+                84.969844,
+                26.2483774
+              ],
+              [
+                84.9698205,
+                26.2482552
+              ],
+              [
+                84.9698065,
+                26.2481295
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "properties": {
+        "id": "SS14011314450990000_39",
+        "plot_index": 39,
+        "plot_number": "39",
+        "khasra_no": "39",
+        "official_plotno": "39",
+        "area_sqm": 895.86,
+        "area_acres": 0.221,
+        "centroid": [
+          84.9700134,
+          26.2480497
+        ],
+        "point_on_surface": [
+          84.9700134,
+          26.2480497
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 39\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9698065,
+                26.2481295
+              ],
+              [
+                84.9699269,
+                26.2481054
+              ],
+              [
+                84.9701417,
+                26.2480927
+              ],
+              [
+                84.9703389,
+                26.2480848
+              ],
+              [
+                84.9703236,
+                26.2479407
+              ],
+              [
+                84.9699822,
+                26.2479512
+              ],
+              [
+                84.9697811,
+                26.2479636
+              ],
+              [
+                84.9698065,
+                26.2481295
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "properties": {
+        "id": "SS14011314450990000_40",
+        "plot_index": 40,
+        "plot_number": "40",
+        "khasra_no": "40",
+        "official_plotno": "40",
+        "area_sqm": 324.78,
+        "area_acres": 0.08,
+        "centroid": [
+          84.9701526,
+          26.2485412
+        ],
+        "point_on_surface": [
+          84.9701526,
+          26.2485412
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 40\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9700671,
+                26.2484869
+              ],
+              [
+                84.9700943,
+                26.2486372
+              ],
+              [
+                84.9702523,
+                26.2486297
+              ],
+              [
+                84.9702823,
+                26.2484655
+              ],
+              [
+                84.9700671,
+                26.2484869
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "properties": {
+        "id": "SS14011314450990000_41",
+        "plot_index": 41,
+        "plot_number": "41",
+        "khasra_no": "41",
+        "official_plotno": "41",
+        "area_sqm": 2070.05,
+        "area_acres": 0.512,
+        "centroid": [
+          84.9700501,
+          26.2482887
+        ],
+        "point_on_surface": [
+          84.9700501,
+          26.2482887
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 41\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9698065,
+                26.2481295
+              ],
+              [
+                84.9698205,
+                26.2482552
+              ],
+              [
+                84.969844,
+                26.2483774
+              ],
+              [
+                84.9698576,
+                26.2484226
+              ],
+              [
+                84.969888,
+                26.2485237
+              ],
+              [
+                84.9700671,
+                26.2484869
+              ],
+              [
+                84.9702823,
+                26.2484655
+              ],
+              [
+                84.9702831,
+                26.2484612
+              ],
+              [
+                84.9703072,
+                26.2483288
+              ],
+              [
+                84.9703311,
+                26.2481789
+              ],
+              [
+                84.9703389,
+                26.2480848
+              ],
+              [
+                84.9701417,
+                26.2480927
+              ],
+              [
+                84.9699269,
+                26.2481054
+              ],
+              [
+                84.9698065,
+                26.2481295
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "properties": {
+        "id": "SS14011314450990000_42",
+        "plot_index": 42,
+        "plot_number": "42",
+        "khasra_no": "42",
+        "official_plotno": "42",
+        "area_sqm": 495.75,
+        "area_acres": 0.123,
+        "centroid": [
+          84.9697906,
+          26.2486895
+        ],
+        "point_on_surface": [
+          84.9697906,
+          26.2486895
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 42\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.969918,
+                26.2487288
+              ],
+              [
+                84.9699109,
+                26.248665
+              ],
+              [
+                84.9698997,
+                26.2485616
+              ],
+              [
+                84.9697683,
+                26.2485822
+              ],
+              [
+                84.9696315,
+                26.2486042
+              ],
+              [
+                84.9696538,
+                26.2487579
+              ],
+              [
+                84.9696913,
+                26.2487578
+              ],
+              [
+                84.9697205,
+                26.2487577
+              ],
+              [
+                84.969794,
+                26.2487506
+              ],
+              [
+                84.969918,
+                26.2487288
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "properties": {
+        "id": "SS14011314450990000_43",
+        "plot_index": 43,
+        "plot_number": "43",
+        "khasra_no": "43",
+        "official_plotno": "43",
+        "area_sqm": 521.74,
+        "area_acres": 0.129,
+        "centroid": [
+          84.9700366,
+          26.2486353
+        ],
+        "point_on_surface": [
+          84.9700366,
+          26.2486353
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 43\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9698997,
+                26.2485616
+              ],
+              [
+                84.9699109,
+                26.248665
+              ],
+              [
+                84.969918,
+                26.2487288
+              ],
+              [
+                84.9699251,
+                26.2487276
+              ],
+              [
+                84.9700084,
+                26.2487123
+              ],
+              [
+                84.970119,
+                26.2486959
+              ],
+              [
+                84.9702438,
+                26.2486858
+              ],
+              [
+                84.97025,
+                26.2486427
+              ],
+              [
+                84.9702523,
+                26.2486297
+              ],
+              [
+                84.9700943,
+                26.2486372
+              ],
+              [
+                84.9700671,
+                26.2484869
+              ],
+              [
+                84.969888,
+                26.2485237
+              ],
+              [
+                84.9698997,
+                26.2485616
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "properties": {
+        "id": "SS14011314450990000_44",
+        "plot_index": 44,
+        "plot_number": "44",
+        "khasra_no": "44",
+        "official_plotno": "44",
+        "area_sqm": 221.6,
+        "area_acres": 0.055,
+        "centroid": [
+          84.9689519,
+          26.2492445
+        ],
+        "point_on_surface": [
+          84.9689519,
+          26.2492445
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 44\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9690073,
+                26.2493729
+              ],
+              [
+                84.9689814,
+                26.2492643
+              ],
+              [
+                84.9689617,
+                26.2491467
+              ],
+              [
+                84.9689575,
+                26.2490499
+              ],
+              [
+                84.9688905,
+                26.2490576
+              ],
+              [
+                84.9689037,
+                26.2491316
+              ],
+              [
+                84.9689238,
+                26.2492833
+              ],
+              [
+                84.9689415,
+                26.2493771
+              ],
+              [
+                84.9689438,
+                26.249389
+              ],
+              [
+                84.9690073,
+                26.2493729
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "properties": {
+        "id": "SS14011314450990000_45",
+        "plot_index": 45,
+        "plot_number": "45",
+        "khasra_no": "45",
+        "official_plotno": "45",
+        "area_sqm": 2725.55,
+        "area_acres": 0.673,
+        "centroid": [
+          84.9693962,
+          26.2490619
+        ],
+        "point_on_surface": [
+          84.9693962,
+          26.2490619
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 45\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9697761,
+                26.2489259
+              ],
+              [
+                84.9697229,
+                26.2489218
+              ],
+              [
+                84.969712,
+                26.2489226
+              ],
+              [
+                84.9696183,
+                26.2489294
+              ],
+              [
+                84.9695045,
+                26.2489444
+              ],
+              [
+                84.9693576,
+                26.2489658
+              ],
+              [
+                84.9692702,
+                26.2489839
+              ],
+              [
+                84.9691265,
+                26.2490178
+              ],
+              [
+                84.9689873,
+                26.2490462
+              ],
+              [
+                84.9689575,
+                26.2490499
+              ],
+              [
+                84.9689617,
+                26.2491467
+              ],
+              [
+                84.9689814,
+                26.2492643
+              ],
+              [
+                84.9690073,
+                26.2493729
+              ],
+              [
+                84.9692325,
+                26.2493159
+              ],
+              [
+                84.9695496,
+                26.2492311
+              ],
+              [
+                84.9698072,
+                26.2491485
+              ],
+              [
+                84.9697834,
+                26.2490011
+              ],
+              [
+                84.9697761,
+                26.2489259
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "properties": {
+        "id": "SS14011314450990000_46",
+        "plot_index": 46,
+        "plot_number": "46",
+        "khasra_no": "46",
+        "official_plotno": "46",
+        "area_sqm": 922.07,
+        "area_acres": 0.228,
+        "centroid": [
+          84.9699523,
+          26.2490166
+        ],
+        "point_on_surface": [
+          84.9699523,
+          26.2490166
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 46\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9697761,
+                26.2489259
+              ],
+              [
+                84.9697834,
+                26.2490011
+              ],
+              [
+                84.9698072,
+                26.2491485
+              ],
+              [
+                84.969829,
+                26.2491415
+              ],
+              [
+                84.9698557,
+                26.2491266
+              ],
+              [
+                84.970024,
+                26.2490859
+              ],
+              [
+                84.9702165,
+                26.2490637
+              ],
+              [
+                84.9702181,
+                26.2489722
+              ],
+              [
+                84.9702235,
+                26.2488874
+              ],
+              [
+                84.9699653,
+                26.2489037
+              ],
+              [
+                84.9697761,
+                26.2489259
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "properties": {
+        "id": "SS14011314450990000_47",
+        "plot_index": 47,
+        "plot_number": "47",
+        "khasra_no": "47",
+        "official_plotno": "47",
+        "area_sqm": 1084.15,
+        "area_acres": 0.268,
+        "centroid": [
+          84.9699161,
+          26.2487945
+        ],
+        "point_on_surface": [
+          84.9699161,
+          26.2487945
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 47\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9696913,
+                26.2487578
+              ],
+              [
+                84.969712,
+                26.2489226
+              ],
+              [
+                84.9697229,
+                26.2489218
+              ],
+              [
+                84.9697761,
+                26.2489259
+              ],
+              [
+                84.9699653,
+                26.2489037
+              ],
+              [
+                84.9702235,
+                26.2488874
+              ],
+              [
+                84.9702301,
+                26.2487816
+              ],
+              [
+                84.9702438,
+                26.2486858
+              ],
+              [
+                84.970119,
+                26.2486959
+              ],
+              [
+                84.9700084,
+                26.2487123
+              ],
+              [
+                84.9699251,
+                26.2487276
+              ],
+              [
+                84.969918,
+                26.2487288
+              ],
+              [
+                84.969794,
+                26.2487506
+              ],
+              [
+                84.9697205,
+                26.2487577
+              ],
+              [
+                84.9696913,
+                26.2487578
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "properties": {
+        "id": "SS14011314450990000_48",
+        "plot_index": 48,
+        "plot_number": "48",
+        "khasra_no": "48",
+        "official_plotno": "48",
+        "area_sqm": 5146.95,
+        "area_acres": 1.272,
+        "centroid": [
+          84.969362,
+          26.2495114
+        ],
+        "point_on_surface": [
+          84.969362,
+          26.2495114
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 48\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9698016,
+                26.2496633
+              ],
+              [
+                84.9699544,
+                26.2496143
+              ],
+              [
+                84.9698725,
+                26.249331
+              ],
+              [
+                84.969829,
+                26.2491415
+              ],
+              [
+                84.9698072,
+                26.2491485
+              ],
+              [
+                84.9695496,
+                26.2492311
+              ],
+              [
+                84.9692325,
+                26.2493159
+              ],
+              [
+                84.9690073,
+                26.2493729
+              ],
+              [
+                84.9689438,
+                26.249389
+              ],
+              [
+                84.9688838,
+                26.2494042
+              ],
+              [
+                84.9688878,
+                26.24942
+              ],
+              [
+                84.9688906,
+                26.2494304
+              ],
+              [
+                84.9689268,
+                26.2495651
+              ],
+              [
+                84.9689642,
+                26.2497301
+              ],
+              [
+                84.968991,
+                26.2498484
+              ],
+              [
+                84.9692383,
+                26.2497997
+              ],
+              [
+                84.9693927,
+                26.2497679
+              ],
+              [
+                84.9695478,
+                26.2497197
+              ],
+              [
+                84.9697168,
+                26.2496718
+              ],
+              [
+                84.9698016,
+                26.2496633
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "properties": {
+        "id": "SS14011314450990000_49",
+        "plot_index": 49,
+        "plot_number": "49",
+        "khasra_no": "49",
+        "official_plotno": "49",
+        "area_sqm": 677.5,
+        "area_acres": 0.167,
+        "centroid": [
+          84.9699474,
+          26.2497474
+        ],
+        "point_on_surface": [
+          84.9699474,
+          26.2497474
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 49\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9698016,
+                26.2496633
+              ],
+              [
+                84.9698447,
+                26.2497934
+              ],
+              [
+                84.9698829,
+                26.2499184
+              ],
+              [
+                84.9700861,
+                26.2498822
+              ],
+              [
+                84.970092,
+                26.2498808
+              ],
+              [
+                84.9700483,
+                26.2497097
+              ],
+              [
+                84.9700147,
+                26.2496011
+              ],
+              [
+                84.9699544,
+                26.2496143
+              ],
+              [
+                84.9698016,
+                26.2496633
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "properties": {
+        "id": "SS14011314450990000_50",
+        "plot_index": 50,
+        "plot_number": "50",
+        "khasra_no": "50",
+        "official_plotno": "50",
+        "area_sqm": 748.82,
+        "area_acres": 0.185,
+        "centroid": [
+          84.9701437,
+          26.2496837
+        ],
+        "point_on_surface": [
+          84.9701437,
+          26.2496837
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 50\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9700147,
+                26.2496011
+              ],
+              [
+                84.9700483,
+                26.2497097
+              ],
+              [
+                84.970092,
+                26.2498808
+              ],
+              [
+                84.970315,
+                26.249827
+              ],
+              [
+                84.9702657,
+                26.2496218
+              ],
+              [
+                84.9702555,
+                26.2495441
+              ],
+              [
+                84.9700147,
+                26.2496011
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "properties": {
+        "id": "SS14011314450990000_51",
+        "plot_index": 51,
+        "plot_number": "51",
+        "khasra_no": "51",
+        "official_plotno": "51",
+        "area_sqm": 1965.32,
+        "area_acres": 0.486,
+        "centroid": [
+          84.9700508,
+          26.2493341
+        ],
+        "point_on_surface": [
+          84.9700508,
+          26.2493341
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 51\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.969829,
+                26.2491415
+              ],
+              [
+                84.9698725,
+                26.249331
+              ],
+              [
+                84.9699544,
+                26.2496143
+              ],
+              [
+                84.9700147,
+                26.2496011
+              ],
+              [
+                84.9702555,
+                26.2495441
+              ],
+              [
+                84.9702541,
+                26.2495335
+              ],
+              [
+                84.9702562,
+                26.2494486
+              ],
+              [
+                84.9702476,
+                26.2493771
+              ],
+              [
+                84.9702165,
+                26.2490637
+              ],
+              [
+                84.970024,
+                26.2490859
+              ],
+              [
+                84.9698557,
+                26.2491266
+              ],
+              [
+                84.969829,
+                26.2491415
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "properties": {
+        "id": "SS14011314450990000_52",
+        "plot_index": 52,
+        "plot_number": "52",
+        "khasra_no": "52",
+        "official_plotno": "52",
+        "area_sqm": 252.94,
+        "area_acres": 0.063,
+        "centroid": [
+          84.967911,
+          26.2499373
+        ],
+        "point_on_surface": [
+          84.967911,
+          26.2499373
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 52\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9678843,
+                26.2500624
+              ],
+              [
+                84.967986,
+                26.2500439
+              ],
+              [
+                84.9679353,
+                26.2498318
+              ],
+              [
+                84.967929,
+                26.2498069
+              ],
+              [
+                84.9678473,
+                26.2498166
+              ],
+              [
+                84.9678843,
+                26.2500624
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "properties": {
+        "id": "SS14011314450990000_53",
+        "plot_index": 53,
+        "plot_number": "53",
+        "khasra_no": "53",
+        "official_plotno": "53",
+        "area_sqm": 304.56,
+        "area_acres": 0.075,
+        "centroid": [
+          84.9679493,
+          26.2501574
+        ],
+        "point_on_surface": [
+          84.9679493,
+          26.2501574
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 53\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9678843,
+                26.2500624
+              ],
+              [
+                84.9679442,
+                26.2503209
+              ],
+              [
+                84.9680475,
+                26.2502973
+              ],
+              [
+                84.967986,
+                26.2500439
+              ],
+              [
+                84.9678843,
+                26.2500624
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "properties": {
+        "id": "SS14011314450990000_54",
+        "plot_index": 54,
+        "plot_number": "54",
+        "khasra_no": "54",
+        "official_plotno": "54",
+        "area_sqm": 1125.1,
+        "area_acres": 0.278,
+        "centroid": [
+          84.9684265,
+          26.2500368
+        ],
+        "point_on_surface": [
+          84.9684265,
+          26.2500368
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 54\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9685294,
+                26.2498517
+              ],
+              [
+                84.9682305,
+                26.2499046
+              ],
+              [
+                84.968258,
+                26.2500588
+              ],
+              [
+                84.9683012,
+                26.250233
+              ],
+              [
+                84.9683876,
+                26.2502116
+              ],
+              [
+                84.9686059,
+                26.2501629
+              ],
+              [
+                84.96857,
+                26.2500204
+              ],
+              [
+                84.9685294,
+                26.2498517
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "properties": {
+        "id": "SS14011314450990000_55",
+        "plot_index": 55,
+        "plot_number": "55",
+        "khasra_no": "55",
+        "official_plotno": "55",
+        "area_sqm": 1237.02,
+        "area_acres": 0.306,
+        "centroid": [
+          84.9685841,
+          26.2498383
+        ],
+        "point_on_surface": [
+          84.9685841,
+          26.2498383
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 55\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9685294,
+                26.2498517
+              ],
+              [
+                84.96857,
+                26.2500204
+              ],
+              [
+                84.9686059,
+                26.2501629
+              ],
+              [
+                84.968767,
+                26.250127
+              ],
+              [
+                84.9686865,
+                26.2497635
+              ],
+              [
+                84.9686245,
+                26.2494922
+              ],
+              [
+                84.9684446,
+                26.2495477
+              ],
+              [
+                84.9684993,
+                26.2497277
+              ],
+              [
+                84.9685294,
+                26.2498517
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "properties": {
+        "id": "SS14011314450990000_56",
+        "plot_index": 56,
+        "plot_number": "56",
+        "khasra_no": "56",
+        "official_plotno": "56",
+        "area_sqm": 989.16,
+        "area_acres": 0.244,
+        "centroid": [
+          84.9683222,
+          26.2497374
+        ],
+        "point_on_surface": [
+          84.9683222,
+          26.2497374
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 56\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9682305,
+                26.2499046
+              ],
+              [
+                84.9685294,
+                26.2498517
+              ],
+              [
+                84.9684993,
+                26.2497277
+              ],
+              [
+                84.9684446,
+                26.2495477
+              ],
+              [
+                84.9682618,
+                26.2495878
+              ],
+              [
+                84.9681748,
+                26.2496171
+              ],
+              [
+                84.9682066,
+                26.2497579
+              ],
+              [
+                84.9682305,
+                26.2499046
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "properties": {
+        "id": "SS14011314450990000_57",
+        "plot_index": 57,
+        "plot_number": "57",
+        "khasra_no": "57",
+        "official_plotno": "57",
+        "area_sqm": 780.32,
+        "area_acres": 0.193,
+        "centroid": [
+          84.9680515,
+          26.2499827
+        ],
+        "point_on_surface": [
+          84.9680515,
+          26.2499827
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 57\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.968063,
+                26.2497735
+              ],
+              [
+                84.967929,
+                26.2498069
+              ],
+              [
+                84.9679353,
+                26.2498318
+              ],
+              [
+                84.967986,
+                26.2500439
+              ],
+              [
+                84.9680475,
+                26.2502973
+              ],
+              [
+                84.9681896,
+                26.2502605
+              ],
+              [
+                84.9681442,
+                26.250099
+              ],
+              [
+                84.9681059,
+                26.2499575
+              ],
+              [
+                84.968063,
+                26.2497735
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "properties": {
+        "id": "SS14011314450990000_58",
+        "plot_index": 58,
+        "plot_number": "58",
+        "khasra_no": "58",
+        "official_plotno": "58",
+        "area_sqm": 920.96,
+        "area_acres": 0.228,
+        "centroid": [
+          84.9681616,
+          26.2499148
+        ],
+        "point_on_surface": [
+          84.9681616,
+          26.2499148
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 58\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.968063,
+                26.2497735
+              ],
+              [
+                84.9681059,
+                26.2499575
+              ],
+              [
+                84.9681442,
+                26.250099
+              ],
+              [
+                84.9681896,
+                26.2502605
+              ],
+              [
+                84.9683012,
+                26.250233
+              ],
+              [
+                84.968258,
+                26.2500588
+              ],
+              [
+                84.9682305,
+                26.2499046
+              ],
+              [
+                84.9682066,
+                26.2497579
+              ],
+              [
+                84.9681748,
+                26.2496171
+              ],
+              [
+                84.9680403,
+                26.2496275
+              ],
+              [
+                84.968063,
+                26.2497735
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "properties": {
+        "id": "SS14011314450990000_59",
+        "plot_index": 59,
+        "plot_number": "59",
+        "khasra_no": "59",
+        "official_plotno": "59",
+        "area_sqm": 580.35,
+        "area_acres": 0.143,
+        "centroid": [
+          84.9678926,
+          26.2497346
+        ],
+        "point_on_surface": [
+          84.9678926,
+          26.2497346
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 59\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.968063,
+                26.2497735
+              ],
+              [
+                84.9680403,
+                26.2496275
+              ],
+              [
+                84.967856,
+                26.2496556
+              ],
+              [
+                84.9677867,
+                26.2496611
+              ],
+              [
+                84.9677115,
+                26.249667
+              ],
+              [
+                84.9677364,
+                26.2498298
+              ],
+              [
+                84.9678473,
+                26.2498166
+              ],
+              [
+                84.967929,
+                26.2498069
+              ],
+              [
+                84.968063,
+                26.2497735
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "properties": {
+        "id": "SS14011314450990000_60",
+        "plot_index": 60,
+        "plot_number": "60",
+        "khasra_no": "60",
+        "official_plotno": "60",
+        "area_sqm": 568.14,
+        "area_acres": 0.14,
+        "centroid": [
+          84.9677388,
+          26.2501603
+        ],
+        "point_on_surface": [
+          84.9677388,
+          26.2501603
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 60\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9677644,
+                26.2499984
+              ],
+              [
+                84.9676195,
+                26.2500202
+              ],
+              [
+                84.967652,
+                26.2501836
+              ],
+              [
+                84.9676837,
+                26.2503684
+              ],
+              [
+                84.9678294,
+                26.2503441
+              ],
+              [
+                84.9678094,
+                26.2502479
+              ],
+              [
+                84.9677879,
+                26.2501212
+              ],
+              [
+                84.9677644,
+                26.2499984
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "properties": {
+        "id": "SS14011314450990000_61",
+        "plot_index": 61,
+        "plot_number": "61",
+        "khasra_no": "61",
+        "official_plotno": "61",
+        "area_sqm": 638.11,
+        "area_acres": 0.158,
+        "centroid": [
+          84.9678291,
+          26.2500983
+        ],
+        "point_on_surface": [
+          84.9678291,
+          26.2500983
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 61\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9678843,
+                26.2500624
+              ],
+              [
+                84.9678473,
+                26.2498166
+              ],
+              [
+                84.9677364,
+                26.2498298
+              ],
+              [
+                84.9677535,
+                26.2499417
+              ],
+              [
+                84.9677644,
+                26.2499984
+              ],
+              [
+                84.9677879,
+                26.2501212
+              ],
+              [
+                84.9678094,
+                26.2502479
+              ],
+              [
+                84.9678294,
+                26.2503441
+              ],
+              [
+                84.9678786,
+                26.2503358
+              ],
+              [
+                84.9679442,
+                26.2503209
+              ],
+              [
+                84.9678843,
+                26.2500624
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "properties": {
+        "id": "SS14011314450990000_62",
+        "plot_index": 62,
+        "plot_number": "62",
+        "khasra_no": "62",
+        "official_plotno": "62",
+        "area_sqm": 597.37,
+        "area_acres": 0.148,
+        "centroid": [
+          84.9676591,
+          26.249884
+        ],
+        "point_on_surface": [
+          84.9676591,
+          26.249884
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 62\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9676195,
+                26.2500202
+              ],
+              [
+                84.9677644,
+                26.2499984
+              ],
+              [
+                84.9677535,
+                26.2499417
+              ],
+              [
+                84.9677364,
+                26.2498298
+              ],
+              [
+                84.9677115,
+                26.249667
+              ],
+              [
+                84.9675398,
+                26.2496732
+              ],
+              [
+                84.9675741,
+                26.2498153
+              ],
+              [
+                84.9676135,
+                26.24999
+              ],
+              [
+                84.9676195,
+                26.2500202
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "properties": {
+        "id": "SS14011314450990000_63",
+        "plot_index": 63,
+        "plot_number": "63",
+        "khasra_no": "63",
+        "official_plotno": "63",
+        "area_sqm": 642.13,
+        "area_acres": 0.159,
+        "centroid": [
+          84.9673498,
+          26.2493777
+        ],
+        "point_on_surface": [
+          84.9673498,
+          26.2493777
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 63\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9674306,
+                26.2495472
+              ],
+              [
+                84.9673886,
+                26.2492628
+              ],
+              [
+                84.9673481,
+                26.249165
+              ],
+              [
+                84.967205,
+                26.2491819
+              ],
+              [
+                84.967296,
+                26.2495621
+              ],
+              [
+                84.9674306,
+                26.2495472
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "properties": {
+        "id": "SS14011314450990000_64",
+        "plot_index": 64,
+        "plot_number": "64",
+        "khasra_no": "64",
+        "official_plotno": "64",
+        "area_sqm": 2010.98,
+        "area_acres": 0.497,
+        "centroid": [
+          84.9688267,
+          26.2497372
+        ],
+        "point_on_surface": [
+          84.9688267,
+          26.2497372
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 64\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9686245,
+                26.2494922
+              ],
+              [
+                84.9686865,
+                26.2497635
+              ],
+              [
+                84.968767,
+                26.250127
+              ],
+              [
+                84.9689446,
+                26.2500927
+              ],
+              [
+                84.9690325,
+                26.2500807
+              ],
+              [
+                84.968991,
+                26.2498484
+              ],
+              [
+                84.9689642,
+                26.2497301
+              ],
+              [
+                84.9689268,
+                26.2495651
+              ],
+              [
+                84.9688906,
+                26.2494304
+              ],
+              [
+                84.9686417,
+                26.2494869
+              ],
+              [
+                84.9686245,
+                26.2494922
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "properties": {
+        "id": "SS14011314450990000_65",
+        "plot_index": 65,
+        "plot_number": "65",
+        "khasra_no": "65",
+        "official_plotno": "65",
+        "area_sqm": 2453.57,
+        "area_acres": 0.606,
+        "centroid": [
+          84.9694436,
+          26.2498587
+        ],
+        "point_on_surface": [
+          84.9694436,
+          26.2498587
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 65\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.968991,
+                26.2498484
+              ],
+              [
+                84.9690325,
+                26.2500807
+              ],
+              [
+                84.9691676,
+                26.2500624
+              ],
+              [
+                84.9694801,
+                26.2500123
+              ],
+              [
+                84.9696797,
+                26.249977
+              ],
+              [
+                84.9698829,
+                26.2499184
+              ],
+              [
+                84.9698447,
+                26.2497934
+              ],
+              [
+                84.9698016,
+                26.2496633
+              ],
+              [
+                84.9697168,
+                26.2496718
+              ],
+              [
+                84.9695478,
+                26.2497197
+              ],
+              [
+                84.9693927,
+                26.2497679
+              ],
+              [
+                84.9692383,
+                26.2497997
+              ],
+              [
+                84.968991,
+                26.2498484
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "properties": {
+        "id": "SS14011314450990000_66",
+        "plot_index": 66,
+        "plot_number": "66",
+        "khasra_no": "66",
+        "official_plotno": "66",
+        "area_sqm": 2975.08,
+        "area_acres": 0.735,
+        "centroid": [
+          84.9674794,
+          26.2481578
+        ],
+        "point_on_surface": [
+          84.9674794,
+          26.2481578
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 66\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.966889,
+                26.248156
+              ],
+              [
+                84.9669686,
+                26.2482798
+              ],
+              [
+                84.9670151,
+                26.2483646
+              ],
+              [
+                84.9671146,
+                26.2483468
+              ],
+              [
+                84.9675857,
+                26.2482263
+              ],
+              [
+                84.9676916,
+                26.2482082
+              ],
+              [
+                84.9679586,
+                26.2481384
+              ],
+              [
+                84.9679318,
+                26.2480618
+              ],
+              [
+                84.9679296,
+                26.2480522
+              ],
+              [
+                84.9679189,
+                26.2480544
+              ],
+              [
+                84.9678602,
+                26.2478496
+              ],
+              [
+                84.966889,
+                26.248156
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "properties": {
+        "id": "SS14011314450990000_67",
+        "plot_index": 67,
+        "plot_number": "67",
+        "khasra_no": "67",
+        "official_plotno": "67",
+        "area_sqm": 1217.98,
+        "area_acres": 0.301,
+        "centroid": [
+          84.966052,
+          26.2501687
+        ],
+        "point_on_surface": [
+          84.966052,
+          26.2501687
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 67\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9661658,
+                26.2499449
+              ],
+              [
+                84.9660254,
+                26.2499321
+              ],
+              [
+                84.9659867,
+                26.2500657
+              ],
+              [
+                84.9659275,
+                26.2502635
+              ],
+              [
+                84.9658719,
+                26.2504865
+              ],
+              [
+                84.9661308,
+                26.2504862
+              ],
+              [
+                84.966142,
+                26.2502261
+              ],
+              [
+                84.9661658,
+                26.2499449
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "properties": {
+        "id": "SS14011314450990000_68",
+        "plot_index": 68,
+        "plot_number": "68",
+        "khasra_no": "68",
+        "official_plotno": "68",
+        "area_sqm": 164.96,
+        "area_acres": 0.041,
+        "centroid": [
+          84.9652364,
+          26.2500074
+        ],
+        "point_on_surface": [
+          84.9652364,
+          26.2500074
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 68\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9652811,
+                26.2500671
+              ],
+              [
+                84.9652681,
+                26.2499131
+              ],
+              [
+                84.9651685,
+                26.2499217
+              ],
+              [
+                84.9651833,
+                26.2500682
+              ],
+              [
+                84.9652811,
+                26.2500671
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "properties": {
+        "id": "SS14011314450990000_69",
+        "plot_index": 69,
+        "plot_number": "69",
+        "khasra_no": "69",
+        "official_plotno": "69",
+        "area_sqm": 1060.54,
+        "area_acres": 0.262,
+        "centroid": [
+          84.9659843,
+          26.2489007
+        ],
+        "point_on_surface": [
+          84.9659843,
+          26.2489007
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 69\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9660007,
+                26.2492174
+              ],
+              [
+                84.9661636,
+                26.2485699
+              ],
+              [
+                84.966075,
+                26.2486163
+              ],
+              [
+                84.9658299,
+                26.2487343
+              ],
+              [
+                84.965883,
+                26.2488937
+              ],
+              [
+                84.9659371,
+                26.2490559
+              ],
+              [
+                84.9660007,
+                26.2492174
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "properties": {
+        "id": "SS14011314450990000_70",
+        "plot_index": 70,
+        "plot_number": "70",
+        "khasra_no": "70",
+        "official_plotno": "70",
+        "area_sqm": 1242.7,
+        "area_acres": 0.307,
+        "centroid": [
+          84.9658466,
+          26.2491086
+        ],
+        "point_on_surface": [
+          84.9658466,
+          26.2491086
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 70\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.965826,
+                26.249375
+              ],
+              [
+                84.9659423,
+                26.2493826
+              ],
+              [
+                84.9659929,
+                26.2492487
+              ],
+              [
+                84.9660007,
+                26.2492174
+              ],
+              [
+                84.9659371,
+                26.2490559
+              ],
+              [
+                84.965883,
+                26.2488937
+              ],
+              [
+                84.9658299,
+                26.2487343
+              ],
+              [
+                84.965669,
+                26.2487988
+              ],
+              [
+                84.9656931,
+                26.2488725
+              ],
+              [
+                84.9657546,
+                26.2490848
+              ],
+              [
+                84.9658046,
+                26.2492644
+              ],
+              [
+                84.965826,
+                26.249375
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "properties": {
+        "id": "SS14011314450990000_71",
+        "plot_index": 71,
+        "plot_number": "71",
+        "khasra_no": "71",
+        "official_plotno": "71",
+        "area_sqm": 1877.82,
+        "area_acres": 0.464,
+        "centroid": [
+          84.965621,
+          26.2491024
+        ],
+        "point_on_surface": [
+          84.965621,
+          26.2491024
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 71\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.965826,
+                26.249375
+              ],
+              [
+                84.9658046,
+                26.2492644
+              ],
+              [
+                84.9657546,
+                26.2490848
+              ],
+              [
+                84.9656931,
+                26.2488725
+              ],
+              [
+                84.965669,
+                26.2487988
+              ],
+              [
+                84.9656615,
+                26.2488018
+              ],
+              [
+                84.9655873,
+                26.248832
+              ],
+              [
+                84.9654619,
+                26.2488742
+              ],
+              [
+                84.9653879,
+                26.2488987
+              ],
+              [
+                84.9654312,
+                26.2490265
+              ],
+              [
+                84.9654733,
+                26.24918
+              ],
+              [
+                84.9655123,
+                26.2493211
+              ],
+              [
+                84.96554,
+                26.249429
+              ],
+              [
+                84.9656865,
+                26.2494025
+              ],
+              [
+                84.965826,
+                26.249375
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "properties": {
+        "id": "SS14011314450990000_72",
+        "plot_index": 72,
+        "plot_number": "72",
+        "khasra_no": "72",
+        "official_plotno": "72",
+        "area_sqm": 633.16,
+        "area_acres": 0.156,
+        "centroid": [
+          84.965421,
+          26.2491873
+        ],
+        "point_on_surface": [
+          84.965421,
+          26.2491873
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 72\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9654416,
+                26.2494553
+              ],
+              [
+                84.96554,
+                26.249429
+              ],
+              [
+                84.9655123,
+                26.2493211
+              ],
+              [
+                84.9654733,
+                26.24918
+              ],
+              [
+                84.9654312,
+                26.2490265
+              ],
+              [
+                84.9653879,
+                26.2488987
+              ],
+              [
+                84.9653561,
+                26.2489093
+              ],
+              [
+                84.9652933,
+                26.2489336
+              ],
+              [
+                84.9653512,
+                26.249128
+              ],
+              [
+                84.9654025,
+                26.249323
+              ],
+              [
+                84.9654416,
+                26.2494553
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "properties": {
+        "id": "SS14011314450990000_73",
+        "plot_index": 73,
+        "plot_number": "73",
+        "khasra_no": "73",
+        "official_plotno": "73",
+        "area_sqm": 1203.81,
+        "area_acres": 0.297,
+        "centroid": [
+          84.9653212,
+          26.2493466
+        ],
+        "point_on_surface": [
+          84.9653212,
+          26.2493466
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 73\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9653283,
+                26.2496529
+              ],
+              [
+                84.9653418,
+                26.2496516
+              ],
+              [
+                84.9654664,
+                26.2496418
+              ],
+              [
+                84.9654423,
+                26.2495434
+              ],
+              [
+                84.9654416,
+                26.2494553
+              ],
+              [
+                84.9654025,
+                26.249323
+              ],
+              [
+                84.9653512,
+                26.249128
+              ],
+              [
+                84.9652933,
+                26.2489336
+              ],
+              [
+                84.9652381,
+                26.2489549
+              ],
+              [
+                84.9651461,
+                26.2489807
+              ],
+              [
+                84.9652027,
+                26.2491592
+              ],
+              [
+                84.965229,
+                26.2492609
+              ],
+              [
+                84.9652849,
+                26.2495147
+              ],
+              [
+                84.9653283,
+                26.2496529
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "properties": {
+        "id": "SS14011314450990000_74",
+        "plot_index": 74,
+        "plot_number": "74",
+        "khasra_no": "74",
+        "official_plotno": "74",
+        "area_sqm": 723.51,
+        "area_acres": 0.179,
+        "centroid": [
+          84.9651945,
+          26.2494731
+        ],
+        "point_on_surface": [
+          84.9651945,
+          26.2494731
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 74\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.965229,
+                26.2492609
+              ],
+              [
+                84.9650708,
+                26.2492887
+              ],
+              [
+                84.9651003,
+                26.249448
+              ],
+              [
+                84.9651182,
+                26.2495004
+              ],
+              [
+                84.9651505,
+                26.2496698
+              ],
+              [
+                84.9652399,
+                26.2496613
+              ],
+              [
+                84.9653283,
+                26.2496529
+              ],
+              [
+                84.9652849,
+                26.2495147
+              ],
+              [
+                84.965229,
+                26.2492609
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "properties": {
+        "id": "SS14011314450990000_75",
+        "plot_index": 75,
+        "plot_number": "75",
+        "khasra_no": "75",
+        "official_plotno": "75",
+        "area_sqm": 525.09,
+        "area_acres": 0.13,
+        "centroid": [
+          84.9651023,
+          26.2491579
+        ],
+        "point_on_surface": [
+          84.9651023,
+          26.2491579
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 75\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9650708,
+                26.2492887
+              ],
+              [
+                84.965229,
+                26.2492609
+              ],
+              [
+                84.9652027,
+                26.2491592
+              ],
+              [
+                84.9651461,
+                26.2489807
+              ],
+              [
+                84.964992,
+                26.2490238
+              ],
+              [
+                84.9650045,
+                26.2491032
+              ],
+              [
+                84.9650708,
+                26.2492887
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "properties": {
+        "id": "SS14011314450990000_76",
+        "plot_index": 76,
+        "plot_number": "76",
+        "khasra_no": "76",
+        "official_plotno": "76",
+        "area_sqm": 1383.64,
+        "area_acres": 0.342,
+        "centroid": [
+          84.964905,
+          26.2492849
+        ],
+        "point_on_surface": [
+          84.964905,
+          26.2492849
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 76\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9650708,
+                26.2492887
+              ],
+              [
+                84.9650045,
+                26.2491032
+              ],
+              [
+                84.964992,
+                26.2490238
+              ],
+              [
+                84.9647322,
+                26.2490952
+              ],
+              [
+                84.9646872,
+                26.2491034
+              ],
+              [
+                84.9647151,
+                26.2491791
+              ],
+              [
+                84.964764,
+                26.2493224
+              ],
+              [
+                84.9647998,
+                26.2494481
+              ],
+              [
+                84.9648152,
+                26.2495022
+              ],
+              [
+                84.9649445,
+                26.24946
+              ],
+              [
+                84.9650681,
+                26.2494415
+              ],
+              [
+                84.9651003,
+                26.249448
+              ],
+              [
+                84.9650708,
+                26.2492887
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "properties": {
+        "id": "SS14011314450990000_77",
+        "plot_index": 77,
+        "plot_number": "77",
+        "khasra_no": "77",
+        "official_plotno": "77",
+        "area_sqm": 1013.02,
+        "area_acres": 0.25,
+        "centroid": [
+          84.9646247,
+          26.2492911
+        ],
+        "point_on_surface": [
+          84.9646247,
+          26.2492911
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 77\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9645487,
+                26.2494984
+              ],
+              [
+                84.9647998,
+                26.2494481
+              ],
+              [
+                84.964764,
+                26.2493224
+              ],
+              [
+                84.9647151,
+                26.2491791
+              ],
+              [
+                84.9646872,
+                26.2491034
+              ],
+              [
+                84.9646326,
+                26.2491135
+              ],
+              [
+                84.964445,
+                26.2491668
+              ],
+              [
+                84.9644811,
+                26.2492895
+              ],
+              [
+                84.9645487,
+                26.2494984
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "properties": {
+        "id": "SS14011314450990000_78",
+        "plot_index": 78,
+        "plot_number": "78",
+        "khasra_no": "78",
+        "official_plotno": "78",
+        "area_sqm": 218.45,
+        "area_acres": 0.054,
+        "centroid": [
+          84.9650485,
+          26.2504152
+        ],
+        "point_on_surface": [
+          84.9650485,
+          26.2504152
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 78\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9650081,
+                26.2504823
+              ],
+              [
+                84.9651047,
+                26.2504691
+              ],
+              [
+                84.9651046,
+                26.2504685
+              ],
+              [
+                84.9650906,
+                26.2502812
+              ],
+              [
+                84.9649748,
+                26.2503076
+              ],
+              [
+                84.9650081,
+                26.2504823
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "properties": {
+        "id": "SS14011314450990000_79",
+        "plot_index": 79,
+        "plot_number": "79",
+        "khasra_no": "79",
+        "official_plotno": "79",
+        "area_sqm": 185.76,
+        "area_acres": 0.046,
+        "centroid": [
+          84.9650266,
+          26.2505089
+        ],
+        "point_on_surface": [
+          84.9650266,
+          26.2505089
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 79\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9651047,
+                26.2504691
+              ],
+              [
+                84.9650081,
+                26.2504823
+              ],
+              [
+                84.9649094,
+                26.2504959
+              ],
+              [
+                84.9649212,
+                26.2505801
+              ],
+              [
+                84.9651113,
+                26.2505566
+              ],
+              [
+                84.9651047,
+                26.2504691
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "properties": {
+        "id": "SS14011314450990000_80",
+        "plot_index": 80,
+        "plot_number": "80",
+        "khasra_no": "80",
+        "official_plotno": "80",
+        "area_sqm": 1552.82,
+        "area_acres": 0.384,
+        "centroid": [
+          84.9651518,
+          26.2502574
+        ],
+        "point_on_surface": [
+          84.9651518,
+          26.2502574
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 80\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9651047,
+                26.2504691
+              ],
+              [
+                84.9651113,
+                26.2505566
+              ],
+              [
+                84.9651995,
+                26.2505456
+              ],
+              [
+                84.965388,
+                26.25051
+              ],
+              [
+                84.9653912,
+                26.2500658
+              ],
+              [
+                84.9652811,
+                26.2500671
+              ],
+              [
+                84.9651833,
+                26.2500682
+              ],
+              [
+                84.9650968,
+                26.2500752
+              ],
+              [
+                84.9650868,
+                26.2500796
+              ],
+              [
+                84.9650831,
+                26.2500813
+              ],
+              [
+                84.9650693,
+                26.2500963
+              ],
+              [
+                84.9650647,
+                26.2501135
+              ],
+              [
+                84.9650693,
+                26.2501719
+              ],
+              [
+                84.9650906,
+                26.2502812
+              ],
+              [
+                84.9651046,
+                26.2504685
+              ],
+              [
+                84.9651047,
+                26.2504691
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "properties": {
+        "id": "SS14011314450990000_81",
+        "plot_index": 81,
+        "plot_number": "81",
+        "khasra_no": "81",
+        "official_plotno": "81",
+        "area_sqm": 1720.5,
+        "area_acres": 0.425,
+        "centroid": [
+          84.9655593,
+          26.2497587
+        ],
+        "point_on_surface": [
+          84.9655593,
+          26.2497587
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 81\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.965375,
+                26.2499468
+              ],
+              [
+                84.9658206,
+                26.249909
+              ],
+              [
+                84.9658304,
+                26.2498717
+              ],
+              [
+                84.9658908,
+                26.2495638
+              ],
+              [
+                84.9657835,
+                26.2495812
+              ],
+              [
+                84.9656162,
+                26.2496141
+              ],
+              [
+                84.9654755,
+                26.249641
+              ],
+              [
+                84.9654664,
+                26.2496418
+              ],
+              [
+                84.9653418,
+                26.2496516
+              ],
+              [
+                84.965367,
+                26.2498328
+              ],
+              [
+                84.9653692,
+                26.2499044
+              ],
+              [
+                84.965375,
+                26.2499468
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "properties": {
+        "id": "SS14011314450990000_82",
+        "plot_index": 82,
+        "plot_number": "82",
+        "khasra_no": "82",
+        "official_plotno": "82",
+        "area_sqm": 185.28,
+        "area_acres": 0.046,
+        "centroid": [
+          84.9653213,
+          26.2499823
+        ],
+        "point_on_surface": [
+          84.9653213,
+          26.2499823
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 82\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9652811,
+                26.2500671
+              ],
+              [
+                84.9653912,
+                26.2500658
+              ],
+              [
+                84.965375,
+                26.2499468
+              ],
+              [
+                84.9653692,
+                26.2499044
+              ],
+              [
+                84.9652835,
+                26.2499118
+              ],
+              [
+                84.9652681,
+                26.2499131
+              ],
+              [
+                84.9652811,
+                26.2500671
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "properties": {
+        "id": "SS14011314450990000_83",
+        "plot_index": 83,
+        "plot_number": "83",
+        "khasra_no": "83",
+        "official_plotno": "83",
+        "area_sqm": 1786.99,
+        "area_acres": 0.442,
+        "centroid": [
+          84.9645758,
+          26.2496422
+        ],
+        "point_on_surface": [
+          84.9645758,
+          26.2496422
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 83\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9648152,
+                26.2495022
+              ],
+              [
+                84.9647998,
+                26.2494481
+              ],
+              [
+                84.9645487,
+                26.2494984
+              ],
+              [
+                84.9644927,
+                26.2495097
+              ],
+              [
+                84.9642908,
+                26.2495542
+              ],
+              [
+                84.9643498,
+                26.2497741
+              ],
+              [
+                84.9643824,
+                26.2498515
+              ],
+              [
+                84.9643916,
+                26.2498695
+              ],
+              [
+                84.9645854,
+                26.2498183
+              ],
+              [
+                84.9648627,
+                26.2497356
+              ],
+              [
+                84.9648152,
+                26.2495022
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "properties": {
+        "id": "SS14011314450990000_84",
+        "plot_index": 84,
+        "plot_number": "84",
+        "khasra_no": "84",
+        "official_plotno": "84",
+        "area_sqm": 1393.93,
+        "area_acres": 0.344,
+        "centroid": [
+          84.9650415,
+          26.2496351
+        ],
+        "point_on_surface": [
+          84.9650415,
+          26.2496351
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 84\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9651505,
+                26.2496698
+              ],
+              [
+                84.9651182,
+                26.2495004
+              ],
+              [
+                84.9651003,
+                26.249448
+              ],
+              [
+                84.9650681,
+                26.2494415
+              ],
+              [
+                84.9649445,
+                26.24946
+              ],
+              [
+                84.9648152,
+                26.2495022
+              ],
+              [
+                84.9648627,
+                26.2497356
+              ],
+              [
+                84.9649177,
+                26.2499112
+              ],
+              [
+                84.9651626,
+                26.2498788
+              ],
+              [
+                84.9651661,
+                26.2497688
+              ],
+              [
+                84.9651505,
+                26.2496698
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "properties": {
+        "id": "SS14011314450990000_85",
+        "plot_index": 85,
+        "plot_number": "85",
+        "khasra_no": "85",
+        "official_plotno": "85",
+        "area_sqm": 532.2,
+        "area_acres": 0.132,
+        "centroid": [
+          84.9650534,
+          26.2499757
+        ],
+        "point_on_surface": [
+          84.9650534,
+          26.2499757
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 85\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9651626,
+                26.2498788
+              ],
+              [
+                84.9649177,
+                26.2499112
+              ],
+              [
+                84.9649053,
+                26.2499128
+              ],
+              [
+                84.9649074,
+                26.2499263
+              ],
+              [
+                84.9649425,
+                26.2501044
+              ],
+              [
+                84.9650868,
+                26.2500796
+              ],
+              [
+                84.9650968,
+                26.2500752
+              ],
+              [
+                84.9651833,
+                26.2500682
+              ],
+              [
+                84.9651685,
+                26.2499217
+              ],
+              [
+                84.9651626,
+                26.2498788
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "properties": {
+        "id": "SS14011314450990000_86",
+        "plot_index": 86,
+        "plot_number": "86",
+        "khasra_no": "86",
+        "official_plotno": "86",
+        "area_sqm": 279.99,
+        "area_acres": 0.069,
+        "centroid": [
+          84.9651987,
+          26.2497994
+        ],
+        "point_on_surface": [
+          84.9651987,
+          26.2497994
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 86\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9651505,
+                26.2496698
+              ],
+              [
+                84.9651661,
+                26.2497688
+              ],
+              [
+                84.9651626,
+                26.2498788
+              ],
+              [
+                84.9651685,
+                26.2499217
+              ],
+              [
+                84.9652681,
+                26.2499131
+              ],
+              [
+                84.9652835,
+                26.2499118
+              ],
+              [
+                84.9652399,
+                26.2496613
+              ],
+              [
+                84.9651505,
+                26.2496698
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "properties": {
+        "id": "SS14011314450990000_87",
+        "plot_index": 87,
+        "plot_number": "87",
+        "khasra_no": "87",
+        "official_plotno": "87",
+        "area_sqm": 2224.65,
+        "area_acres": 0.55,
+        "centroid": [
+          84.9668853,
+          26.2500094
+        ],
+        "point_on_surface": [
+          84.9668853,
+          26.2500094
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 87\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9667657,
+                26.2502083
+              ],
+              [
+                84.9669908,
+                26.2501568
+              ],
+              [
+                84.9669996,
+                26.250155
+              ],
+              [
+                84.9671478,
+                26.2501245
+              ],
+              [
+                84.9671292,
+                26.2500184
+              ],
+              [
+                84.96712,
+                26.2499662
+              ],
+              [
+                84.9670904,
+                26.2497761
+              ],
+              [
+                84.9669053,
+                26.2498231
+              ],
+              [
+                84.9668459,
+                26.249831
+              ],
+              [
+                84.9668021,
+                26.2498466
+              ],
+              [
+                84.9667656,
+                26.2498711
+              ],
+              [
+                84.9665227,
+                26.2499173
+              ],
+              [
+                84.966544,
+                26.2502284
+              ],
+              [
+                84.9667657,
+                26.2502083
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "properties": {
+        "id": "SS14011314450990000_88",
+        "plot_index": 88,
+        "plot_number": "88",
+        "khasra_no": "88",
+        "official_plotno": "88",
+        "area_sqm": 401.42,
+        "area_acres": 0.099,
+        "centroid": [
+          84.9669102,
+          26.2502635
+        ],
+        "point_on_surface": [
+          84.9669102,
+          26.2502635
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 88\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9668975,
+                26.2503389
+              ],
+              [
+                84.9670291,
+                26.2503102
+              ],
+              [
+                84.9669996,
+                26.250155
+              ],
+              [
+                84.9669908,
+                26.2501568
+              ],
+              [
+                84.9667657,
+                26.2502083
+              ],
+              [
+                84.9667911,
+                26.2503367
+              ],
+              [
+                84.9668975,
+                26.2503389
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "properties": {
+        "id": "SS14011314450990000_89",
+        "plot_index": 89,
+        "plot_number": "89",
+        "khasra_no": "89",
+        "official_plotno": "89",
+        "area_sqm": 326.81,
+        "area_acres": 0.081,
+        "centroid": [
+          84.9666754,
+          26.250302
+        ],
+        "point_on_surface": [
+          84.9666754,
+          26.250302
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 89\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9667039,
+                26.250354
+              ],
+              [
+                84.9667911,
+                26.2503367
+              ],
+              [
+                84.9667657,
+                26.2502083
+              ],
+              [
+                84.966544,
+                26.2502284
+              ],
+              [
+                84.966544,
+                26.2503305
+              ],
+              [
+                84.9667039,
+                26.250354
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "properties": {
+        "id": "SS14011314450990000_90",
+        "plot_index": 90,
+        "plot_number": "90",
+        "khasra_no": "90",
+        "official_plotno": "90",
+        "area_sqm": 317.5,
+        "area_acres": 0.078,
+        "centroid": [
+          84.9667852,
+          26.2503943
+        ],
+        "point_on_surface": [
+          84.9667852,
+          26.2503943
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 90\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9667039,
+                26.250354
+              ],
+              [
+                84.9667139,
+                26.2504977
+              ],
+              [
+                84.9669011,
+                26.2504847
+              ],
+              [
+                84.9668975,
+                26.2503389
+              ],
+              [
+                84.9667911,
+                26.2503367
+              ],
+              [
+                84.9667039,
+                26.250354
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "properties": {
+        "id": "SS14011314450990000_91",
+        "plot_index": 91,
+        "plot_number": "91",
+        "khasra_no": "91",
+        "official_plotno": "91",
+        "area_sqm": 793.03,
+        "area_acres": 0.196,
+        "centroid": [
+          84.9670429,
+          26.250339
+        ],
+        "point_on_surface": [
+          84.9670429,
+          26.250339
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 91\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9668975,
+                26.2503389
+              ],
+              [
+                84.9669011,
+                26.2504847
+              ],
+              [
+                84.967017,
+                26.2504838
+              ],
+              [
+                84.9671818,
+                26.2504656
+              ],
+              [
+                84.9671956,
+                26.2504644
+              ],
+              [
+                84.9671618,
+                26.2502239
+              ],
+              [
+                84.9671478,
+                26.2501245
+              ],
+              [
+                84.9669996,
+                26.250155
+              ],
+              [
+                84.9670291,
+                26.2503102
+              ],
+              [
+                84.9668975,
+                26.2503389
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "properties": {
+        "id": "SS14011314450990000_92",
+        "plot_index": 92,
+        "plot_number": "92",
+        "khasra_no": "92",
+        "official_plotno": "92",
+        "area_sqm": 2195.03,
+        "area_acres": 0.542,
+        "centroid": [
+          84.9675173,
+          26.2500199
+        ],
+        "point_on_surface": [
+          84.9675173,
+          26.2500199
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 92\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9676195,
+                26.2500202
+              ],
+              [
+                84.9676135,
+                26.24999
+              ],
+              [
+                84.9675741,
+                26.2498153
+              ],
+              [
+                84.9675398,
+                26.2496732
+              ],
+              [
+                84.9675262,
+                26.2495366
+              ],
+              [
+                84.9674306,
+                26.2495472
+              ],
+              [
+                84.967296,
+                26.2495621
+              ],
+              [
+                84.9673504,
+                26.2498833
+              ],
+              [
+                84.9673836,
+                26.250072
+              ],
+              [
+                84.9674259,
+                26.2502369
+              ],
+              [
+                84.9674281,
+                26.2502456
+              ],
+              [
+                84.9674644,
+                26.250413
+              ],
+              [
+                84.9675137,
+                26.2504008
+              ],
+              [
+                84.9676737,
+                26.2503701
+              ],
+              [
+                84.9676837,
+                26.2503684
+              ],
+              [
+                84.967652,
+                26.2501836
+              ],
+              [
+                84.9676195,
+                26.2500202
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "properties": {
+        "id": "SS14011314450990000_93",
+        "plot_index": 93,
+        "plot_number": "93",
+        "khasra_no": "93",
+        "official_plotno": "93",
+        "area_sqm": 403.23,
+        "area_acres": 0.1,
+        "centroid": [
+          84.967262,
+          26.2503191
+        ],
+        "point_on_surface": [
+          84.967262,
+          26.2503191
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 93\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9671618,
+                26.2502239
+              ],
+              [
+                84.9671956,
+                26.2504644
+              ],
+              [
+                84.9672896,
+                26.2504562
+              ],
+              [
+                84.9673444,
+                26.2504426
+              ],
+              [
+                84.9673207,
+                26.2502798
+              ],
+              [
+                84.967316,
+                26.2502562
+              ],
+              [
+                84.9673059,
+                26.2502056
+              ],
+              [
+                84.9671618,
+                26.2502239
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "properties": {
+        "id": "SS14011314450990000_94",
+        "plot_index": 94,
+        "plot_number": "94",
+        "khasra_no": "94",
+        "official_plotno": "94",
+        "area_sqm": 239.02,
+        "area_acres": 0.059,
+        "centroid": [
+          84.9673893,
+          26.2503016
+        ],
+        "point_on_surface": [
+          84.9673893,
+          26.2503016
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 94\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9674259,
+                26.2502369
+              ],
+              [
+                84.967316,
+                26.2502562
+              ],
+              [
+                84.9673207,
+                26.2502798
+              ],
+              [
+                84.9673444,
+                26.2504426
+              ],
+              [
+                84.9674644,
+                26.250413
+              ],
+              [
+                84.9674281,
+                26.2502456
+              ],
+              [
+                84.9674259,
+                26.2502369
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "properties": {
+        "id": "SS14011314450990000_95",
+        "plot_index": 95,
+        "plot_number": "95",
+        "khasra_no": "95",
+        "official_plotno": "95",
+        "area_sqm": 1600.39,
+        "area_acres": 0.395,
+        "centroid": [
+          84.967016,
+          26.2494134
+        ],
+        "point_on_surface": [
+          84.967016,
+          26.2494134
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 95\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9668095,
+                26.2492779
+              ],
+              [
+                84.9668457,
+                26.2493971
+              ],
+              [
+                84.9668824,
+                26.2494703
+              ],
+              [
+                84.9669271,
+                26.2496068
+              ],
+              [
+                84.9670383,
+                26.249596
+              ],
+              [
+                84.9671831,
+                26.249577
+              ],
+              [
+                84.967296,
+                26.2495621
+              ],
+              [
+                84.967205,
+                26.2491819
+              ],
+              [
+                84.9671632,
+                26.2491869
+              ],
+              [
+                84.9668095,
+                26.2492779
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "properties": {
+        "id": "SS14011314450990000_96",
+        "plot_index": 96,
+        "plot_number": "96",
+        "khasra_no": "96",
+        "official_plotno": "96",
+        "area_sqm": 3449.49,
+        "area_acres": 0.852,
+        "centroid": [
+          84.966738,
+          26.249594
+        ],
+        "point_on_surface": [
+          84.966738,
+          26.249594
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 96\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9668095,
+                26.2492779
+              ],
+              [
+                84.9667937,
+                26.2492347
+              ],
+              [
+                84.9664333,
+                26.2492348
+              ],
+              [
+                84.9664226,
+                26.2493497
+              ],
+              [
+                84.9664313,
+                26.2495322
+              ],
+              [
+                84.9664623,
+                26.2497308
+              ],
+              [
+                84.9664961,
+                26.2499195
+              ],
+              [
+                84.9665227,
+                26.2499173
+              ],
+              [
+                84.9667656,
+                26.2498711
+              ],
+              [
+                84.9668021,
+                26.2498466
+              ],
+              [
+                84.9668459,
+                26.249831
+              ],
+              [
+                84.9669053,
+                26.2498231
+              ],
+              [
+                84.9670904,
+                26.2497761
+              ],
+              [
+                84.9670383,
+                26.249596
+              ],
+              [
+                84.9669271,
+                26.2496068
+              ],
+              [
+                84.9668824,
+                26.2494703
+              ],
+              [
+                84.9668457,
+                26.2493971
+              ],
+              [
+                84.9668095,
+                26.2492779
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "properties": {
+        "id": "SS14011314450990000_97",
+        "plot_index": 97,
+        "plot_number": "97",
+        "khasra_no": "97",
+        "official_plotno": "97",
+        "area_sqm": 1462.84,
+        "area_acres": 0.361,
+        "centroid": [
+          84.9665016,
+          26.2490688
+        ],
+        "point_on_surface": [
+          84.9665016,
+          26.2490688
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 97\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9667643,
+                26.2491321
+              ],
+              [
+                84.9665954,
+                26.2491529
+              ],
+              [
+                84.9665434,
+                26.2489646
+              ],
+              [
+                84.9664833,
+                26.2487471
+              ],
+              [
+                84.966361,
+                26.2487738
+              ],
+              [
+                84.9663076,
+                26.248998
+              ],
+              [
+                84.9662375,
+                26.2491879
+              ],
+              [
+                84.9662338,
+                26.2491986
+              ],
+              [
+                84.9664333,
+                26.2492348
+              ],
+              [
+                84.9667937,
+                26.2492347
+              ],
+              [
+                84.9667643,
+                26.2491321
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "properties": {
+        "id": "SS14011314450990000_98",
+        "plot_index": 98,
+        "plot_number": "98",
+        "khasra_no": "98",
+        "official_plotno": "98",
+        "area_sqm": 910.63,
+        "area_acres": 0.225,
+        "centroid": [
+          84.966308,
+          26.2493779
+        ],
+        "point_on_surface": [
+          84.966308,
+          26.2493779
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 98\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9664333,
+                26.2492348
+              ],
+              [
+                84.9662338,
+                26.2491986
+              ],
+              [
+                84.9661712,
+                26.2493791
+              ],
+              [
+                84.9661269,
+                26.2495479
+              ],
+              [
+                84.9662117,
+                26.2495462
+              ],
+              [
+                84.9664313,
+                26.2495322
+              ],
+              [
+                84.9664226,
+                26.2493497
+              ],
+              [
+                84.9664333,
+                26.2492348
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "properties": {
+        "id": "SS14011314450990000_99",
+        "plot_index": 99,
+        "plot_number": "99",
+        "khasra_no": "99",
+        "official_plotno": "99",
+        "area_sqm": 1686.63,
+        "area_acres": 0.417,
+        "centroid": [
+          84.9662678,
+          26.2497533
+        ],
+        "point_on_surface": [
+          84.9662678,
+          26.2497533
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 99\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9664313,
+                26.2495322
+              ],
+              [
+                84.9662117,
+                26.2495462
+              ],
+              [
+                84.9661269,
+                26.2495479
+              ],
+              [
+                84.9660316,
+                26.2499109
+              ],
+              [
+                84.9660254,
+                26.2499321
+              ],
+              [
+                84.9661658,
+                26.2499449
+              ],
+              [
+                84.9662957,
+                26.2499359
+              ],
+              [
+                84.9664961,
+                26.2499195
+              ],
+              [
+                84.9664623,
+                26.2497308
+              ],
+              [
+                84.9664313,
+                26.2495322
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "properties": {
+        "id": "SS14011314450990000_100",
+        "plot_index": 100,
+        "plot_number": "100",
+        "khasra_no": "100",
+        "official_plotno": "100",
+        "area_sqm": 2481,
+        "area_acres": 0.613,
+        "centroid": [
+          84.9663541,
+          26.2502039
+        ],
+        "point_on_surface": [
+          84.9663541,
+          26.2502039
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 100\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9661658,
+                26.2499449
+              ],
+              [
+                84.966142,
+                26.2502261
+              ],
+              [
+                84.9661308,
+                26.2504862
+              ],
+              [
+                84.9662696,
+                26.2505058
+              ],
+              [
+                84.9664291,
+                26.2505048
+              ],
+              [
+                84.966544,
+                26.2505019
+              ],
+              [
+                84.966544,
+                26.2503305
+              ],
+              [
+                84.966544,
+                26.2502284
+              ],
+              [
+                84.9665227,
+                26.2499173
+              ],
+              [
+                84.9664961,
+                26.2499195
+              ],
+              [
+                84.9662957,
+                26.2499359
+              ],
+              [
+                84.9661658,
+                26.2499449
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "properties": {
+        "id": "SS14011314450990000_101",
+        "plot_index": 101,
+        "plot_number": "101",
+        "khasra_no": "101",
+        "official_plotno": "101",
+        "area_sqm": 287.16,
+        "area_acres": 0.071,
+        "centroid": [
+          84.96661,
+          26.2504029
+        ],
+        "point_on_surface": [
+          84.96661,
+          26.2504029
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 101\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.966544,
+                26.2503305
+              ],
+              [
+                84.966544,
+                26.2505019
+              ],
+              [
+                84.9667139,
+                26.2504977
+              ],
+              [
+                84.9667039,
+                26.250354
+              ],
+              [
+                84.966544,
+                26.2503305
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "properties": {
+        "id": "SS14011314450990000_102",
+        "plot_index": 102,
+        "plot_number": "102",
+        "khasra_no": "102",
+        "official_plotno": "102",
+        "area_sqm": 2975.68,
+        "area_acres": 0.735,
+        "centroid": [
+          84.9667351,
+          26.2484953
+        ],
+        "point_on_surface": [
+          84.9667351,
+          26.2484953
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 102\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.966361,
+                26.2487738
+              ],
+              [
+                84.9664833,
+                26.2487471
+              ],
+              [
+                84.9668644,
+                26.2486638
+              ],
+              [
+                84.9671064,
+                26.2485983
+              ],
+              [
+                84.9670454,
+                26.2484197
+              ],
+              [
+                84.9670151,
+                26.2483646
+              ],
+              [
+                84.9669686,
+                26.2482798
+              ],
+              [
+                84.966889,
+                26.248156
+              ],
+              [
+                84.9668305,
+                26.248177
+              ],
+              [
+                84.9665081,
+                26.2483312
+              ],
+              [
+                84.9663884,
+                26.2486587
+              ],
+              [
+                84.966361,
+                26.2487738
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "properties": {
+        "id": "SS14011314450990000_103",
+        "plot_index": 103,
+        "plot_number": "103",
+        "khasra_no": "103",
+        "official_plotno": "103",
+        "area_sqm": 2253.09,
+        "area_acres": 0.557,
+        "centroid": [
+          84.9655773,
+          26.2502964
+        ],
+        "point_on_surface": [
+          84.9655773,
+          26.2502964
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 103\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9658206,
+                26.249909
+              ],
+              [
+                84.965375,
+                26.2499468
+              ],
+              [
+                84.9653912,
+                26.2500658
+              ],
+              [
+                84.965388,
+                26.25051
+              ],
+              [
+                84.9654119,
+                26.2504878
+              ],
+              [
+                84.9654213,
+                26.2504842
+              ],
+              [
+                84.9654344,
+                26.2504818
+              ],
+              [
+                84.9655958,
+                26.2504868
+              ],
+              [
+                84.9656727,
+                26.2504867
+              ],
+              [
+                84.9657103,
+                26.2504867
+              ],
+              [
+                84.9657163,
+                26.2504104
+              ],
+              [
+                84.9657471,
+                26.2501886
+              ],
+              [
+                84.9658206,
+                26.249909
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "properties": {
+        "id": "SS14011314450990000_104",
+        "plot_index": 104,
+        "plot_number": "104",
+        "khasra_no": "104",
+        "official_plotno": "104",
+        "area_sqm": 5066.66,
+        "area_acres": 1.252,
+        "centroid": [
+          84.9660454,
+          26.2495258
+        ],
+        "point_on_surface": [
+          84.9660454,
+          26.2495258
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 104\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9659395,
+                26.24939
+              ],
+              [
+                84.9658908,
+                26.2495638
+              ],
+              [
+                84.9658304,
+                26.2498717
+              ],
+              [
+                84.9658206,
+                26.249909
+              ],
+              [
+                84.9657471,
+                26.2501886
+              ],
+              [
+                84.9657163,
+                26.2504104
+              ],
+              [
+                84.9657103,
+                26.2504867
+              ],
+              [
+                84.9658688,
+                26.2504865
+              ],
+              [
+                84.9658719,
+                26.2504865
+              ],
+              [
+                84.9659275,
+                26.2502635
+              ],
+              [
+                84.9659867,
+                26.2500657
+              ],
+              [
+                84.9660254,
+                26.2499321
+              ],
+              [
+                84.9660316,
+                26.2499109
+              ],
+              [
+                84.9661269,
+                26.2495479
+              ],
+              [
+                84.9661712,
+                26.2493791
+              ],
+              [
+                84.9662338,
+                26.2491986
+              ],
+              [
+                84.9662375,
+                26.2491879
+              ],
+              [
+                84.9663076,
+                26.248998
+              ],
+              [
+                84.966361,
+                26.2487738
+              ],
+              [
+                84.9663884,
+                26.2486587
+              ],
+              [
+                84.9665081,
+                26.2483312
+              ],
+              [
+                84.9664862,
+                26.2483464
+              ],
+              [
+                84.9661636,
+                26.2485699
+              ],
+              [
+                84.9660007,
+                26.2492174
+              ],
+              [
+                84.9659929,
+                26.2492487
+              ],
+              [
+                84.9659423,
+                26.2493826
+              ],
+              [
+                84.9659395,
+                26.24939
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "properties": {
+        "id": "SS14011314450990000_105",
+        "plot_index": 105,
+        "plot_number": "105",
+        "khasra_no": "105",
+        "official_plotno": "105",
+        "area_sqm": 1016.22,
+        "area_acres": 0.251,
+        "centroid": [
+          84.9656915,
+          26.2494931
+        ],
+        "point_on_surface": [
+          84.9656915,
+          26.2494931
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 105\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9659395,
+                26.24939
+              ],
+              [
+                84.9659423,
+                26.2493826
+              ],
+              [
+                84.965826,
+                26.249375
+              ],
+              [
+                84.9656865,
+                26.2494025
+              ],
+              [
+                84.96554,
+                26.249429
+              ],
+              [
+                84.9654416,
+                26.2494553
+              ],
+              [
+                84.9654423,
+                26.2495434
+              ],
+              [
+                84.9654664,
+                26.2496418
+              ],
+              [
+                84.9654755,
+                26.249641
+              ],
+              [
+                84.9656162,
+                26.2496141
+              ],
+              [
+                84.9657835,
+                26.2495812
+              ],
+              [
+                84.9658908,
+                26.2495638
+              ],
+              [
+                84.9659395,
+                26.24939
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "properties": {
+        "id": "SS14011314450990000_106",
+        "plot_index": 106,
+        "plot_number": "106",
+        "khasra_no": "106",
+        "official_plotno": "106",
+        "area_sqm": 973.75,
+        "area_acres": 0.241,
+        "centroid": [
+          84.9643927,
+          26.2494001
+        ],
+        "point_on_surface": [
+          84.9643927,
+          26.2494001
+        ],
+        "verified": true,
+        "ocr_verified": true,
+        "is_official_geometry": true,
+        "source": "BhuNaksha Official Geometry",
+        "info": "रकवा  : \nखेसरा नंबर  : 106\n\nखेत चौहदी :\n\n\n\n\n\n\n",
+        "survey_type": "SS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.9642908,
+                26.2495542
+              ],
+              [
+                84.9644927,
+                26.2495097
+              ],
+              [
+                84.9645487,
+                26.2494984
+              ],
+              [
+                84.9644811,
+                26.2492895
+              ],
+              [
+                84.964445,
+                26.2491668
+              ],
+              [
+                84.9641999,
+                26.2492277
+              ],
+              [
+                84.9642908,
+                26.2495542
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
