@@ -1,5 +1,3 @@
-
 mvt_cache/
-*.pbf
 harvest_cache/
 .DS_Store
